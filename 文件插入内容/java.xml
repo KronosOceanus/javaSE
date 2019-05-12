@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE classes SYSTEM "D:\project\javaSE\JAXP解析XML\java.dtd">
+<classes>
+    <java班 name="CSDNJava01班">
+        <teachers>
+            <teacher name="军哥" sex="男" age="28" />
+            <teacher name="刘丽华" sex="女" age="28" />
+        </teachers>
+        <students>
+            <student id="x121">
+                <name>王亮</name>
+                <sex>女</sex>
+                <age>28</age>
+            </student>
+        </students>
+    </java班>
+    <net班 name="CSDNNet01班"></net班>
+    <php班 name="CSDNPhp01班"></php班>
+    <ios班 name="CSDNIos01班"></ios班>
+</classes>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!-- *用到的元素和数据类型的命名空间，且前缀为xs：
+	 *定义元素的命名空间
+	 *默认命名空间
+	 *使用和声明过的元素必须被命名空间限定 -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.w3schools.com"
+           xmlns="http://www.w3schools.com"
+           elementFormDefault="qualified">
+
+    <xs:element name="note">
+        <!-- 复合元素 -->
+        <xs:complexType>
+            <xs:sequence>
+                <!-- 简易元素（不包含其他元素，属性）：标签名称 种类（内容与种类不匹配，不会通过验证） -->
+                <!-- default默认值，fixed固定值-->
+                <xs:element name="to" type="xs:string" default="Client_1"/>
+                <xs:element name="from" type="xs:string" fixed="Server"/>
+                <xs:element name="heading" type="xs:string"/>
+                <xs:element name="body" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:element name="age">
+        <!-- 简易元素 -->
+        <xs:simpleType>
+            <!-- 限定 -->
+            <xs:restriction base="xs:integer">
+                <!-- 指定最值 -->
+                <xs:minInclusive value="0"/>
+                <xs:maxInclusive value="120"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+
+    <xs:element name="car">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <!-- 枚举 -->
+                <xs:enumeration value="Audi"/>
+                <xs:enumeration value="Golf"/>
+                <xs:enumeration value="BMW"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <!-- 新写法
+        <xs:element name="car" type="carType"/>     引用类型
+            <xs:simpleType name="carType">              定义类型
+              <xs:restriction base="xs:string">         限定
+                <xs:enumeration value="Audi"/>
+                <xs:enumeration value="Golf"/>
+                <xs:enumeration value="BMW"/>
+              </xs:restriction>
+            </xs:simpleType>
+        -->
+
+    <!--
+        <xs:pattern value="[a-z]"/>                 系列限定（类似于正则）
+        <xs:pattern value="[a-zA-Z][A-Z][A-Z]"/>
+        枚举  [xyz]   中的一个
+    -->
+
+    <!--
+        空白限定
+        <xs:whiteSpace value="preserve"/>           预处理
+        replace                                     移除空白
+        collapse                                    开头结尾空格移除，其他变成单个空格（如：\n \t 多个空格）
+    -->
+
+</xs:schema>

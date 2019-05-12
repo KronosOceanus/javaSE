@@ -1,0 +1,30 @@
+
+<!ELEMENT classes (java,net,php,ios)>
+
+<!ELEMENT java (teachers?,students?)>
+<!ELEMENT net (teachers?,students?)>
+<!ELEMENT php (teachers?,students?)>
+<!ELEMENT ios (teachers?,students?)>
+
+<!ELEMENT teachers (teacher*)>
+<!ELEMENT teacher EMPTY>
+<!ELEMENT students (student*)>
+<!ELEMENT student (name,sex,age)>
+
+<!ATTLIST classes name CDATA #IMPLIED>
+<!ATTLIST java name CDATA #IMPLIED>
+<!ATTLIST net name CDATA #IMPLIED>
+<!ATTLIST php name CDATA #IMPLIED>
+<!ATTLIST ios name CDATA #IMPLIED>
+
+<!ATTLIST teacher name CDATA #IMPLIED>
+<!ATTLIST teacher sex CDATA #IMPLIED>
+<!ATTLIST teacher age CDATA #IMPLIED>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+
+<!ATTLIST teacher id ID #IMPLIED>
+<!ATTLIST student id ID #IMPLIED>
+

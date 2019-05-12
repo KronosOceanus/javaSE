@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE classes SYSTEM "java.dtd">
+<classes name="华">
+    <java name="CSDNJava01班">
+        <teachers>
+            <teacher id="id" />
+            <teacher age="28" name="刘丽华" sex="女"/>
+            <teacher age="28" name="刘华" sex="男"/>
+            <teacher age="28" name="华" sex="女"/>
+        </teachers>
+        <students>
+            <student id="x121">
+                <name>王亮</name>
+                <sex>女</sex>
+                <age>28</age>
+            </student>
+        </students>
+    </java>
+    <net name="华"/>
+    <php name="CSDNPhp01班"/>
+    <ios name="CSDNIos01班"/>
+</classes>
