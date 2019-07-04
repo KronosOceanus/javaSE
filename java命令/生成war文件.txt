@@ -1,0 +1,2 @@
+进入项目目录（假设名为web）
+执行jar cvf  web.war *
