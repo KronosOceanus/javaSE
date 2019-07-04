@@ -44,6 +44,6 @@ git config --global user.email 704690152@qq.com
 git add .
 git commit -m ""
 git remote add origin
-git remote add upstream
+git remote add upsgit pulltream
 git pull --rebase origin master
 git push -u origin master

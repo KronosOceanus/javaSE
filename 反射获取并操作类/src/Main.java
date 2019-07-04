@@ -22,7 +22,7 @@ public class Main {
             System.out.println("读取 " + fileName + "异常");
         }
     }
-    //创建某个类实例
+    //根据类名创建某个类实例
     private Object createObject(String clazzName)
             throws InstantiationException, IllegalAccessException,
             ClassNotFoundException, NoSuchMethodException,

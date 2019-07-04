@@ -19,7 +19,7 @@ public class Sax {
 
     public Sax() throws DocumentException {
         saxReader = new SAXReader();
-        document = saxReader.read(new File("java.xml"));
+        document = saxReader.read(new File("reflect.xml"));
         rootElement = document.getRootElement();
         childElements = rootElement.elements();
     }
@@ -40,7 +40,7 @@ public class Sax {
                 System.out.println("\t" + teacherName);
 
                 //直接获取文本
-                String teacherClass = childElement.getText();
+                String teacherClass = childElement.elementText("teacher");
                 System.out.println("\t" + teacherClass);
 
                 //然后处理子元素
