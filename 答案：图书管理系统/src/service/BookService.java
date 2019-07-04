@@ -1,7 +1,7 @@
 package service;
 
-import database.Book;
-import database.Type;
+import entity.Book;
+import entity.Type;
 
 import java.util.Collection;
 

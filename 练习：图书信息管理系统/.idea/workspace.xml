@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76256d52-509a-4ba4-9ab3-8a7270e74e75" name="Default Changelist" comment="" />
+    <list default="true" id="76256d52-509a-4ba4-9ab3-8a7270e74e75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/JDBCExector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/META-INF/DBCP连接池.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/JDBCExector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/PropsUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/src/JDBCExector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/src/JDBCExector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC事务支持/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC事务支持/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC事务支持/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC事务支持/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../（已掌握内容）/TreeSet集合定制排序（lambda表达式）/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../（已掌握内容）/TreeSet集合定制排序（lambda表达式）/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
+            <state relative-caret-position="1025">
               <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#848#849#0" expanded="true" />
@@ -42,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SQLInteraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5175">
+            <state relative-caret-position="250">
               <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             </state>
           </provider>
@@ -51,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SQLOperating.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3554">
+            <state relative-caret-position="4150">
               <caret line="171" column="40" selection-start-line="171" selection-start-column="40" selection-end-line="171" selection-end-column="40" />
             </state>
           </provider>
@@ -75,6 +94,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -101,12 +123,12 @@
     <option name="width" value="1530" />
     <option name="height" value="870" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,6 +145,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -192,17 +215,17 @@
       <workItem from="1553403623215" duration="1596000" />
       <workItem from="1553421772785" duration="4658000" />
       <workItem from="1553516137719" duration="46000" />
+      <workItem from="1560676664335" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61190000" />
+    <option name="totallyTimeSpent" value="61195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23123324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -260,7 +283,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
+        <state relative-caret-position="1025">
           <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#848#849#0" expanded="true" />
@@ -275,24 +298,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionSetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SQLInteraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5175">
+        <state relative-caret-position="250">
           <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SQLOperating.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3554">
+        <state relative-caret-position="4150">
           <caret line="171" column="40" selection-start-line="171" selection-start-column="40" selection-end-line="171" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConditionSetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

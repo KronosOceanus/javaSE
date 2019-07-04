@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="823f2799-112e-44ca-91f6-3c56b6508a26" name="Default Changelist" comment="" />
+    <list default="true" id="823f2799-112e-44ca-91f6-3c56b6508a26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/src/data_source_impl/MyConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/src/data_source_impl/MyDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/src/data_source_impl/MyDataSourceMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/DBCPUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlNote/dtd/web-app.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlNote/dtd/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlNote/example/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlNote/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlNote/schema/web-app.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xmlNote/schema/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CS结构聊天室（客户端）/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/JDBCExector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/PropsUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/JDBCUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/PropsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/utils/PropsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/JDBCExector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/out/production/DBUtils使用/PropsUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/src/JDBCExector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/src/JDBCExector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/out/production/FileVisitor遍历文件和目录（NIO.2）/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/out/production/FileVisitor遍历文件和目录（NIO.2）/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/out/production/FileVisitor遍历文件和目录（NIO.2）/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/out/production/FileVisitor遍历文件和目录（NIO.2）/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileVisitor遍历文件和目录（NIO.2）/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAXP解析XML/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAXP解析XML/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC事务支持/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC事务支持/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC事务支持/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC事务支持/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xmlNote/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xmlNote/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xmlNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xmlNote/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xmlNote/note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xmlNote/schema/letter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xmlNote/note.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../xmlNote/schema/letter.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookSaleRecordDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookSaleRecordDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookSaleRecordDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/BookSaleRecordDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/PublisherDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/PublisherDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/PublisherDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/PublisherDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/SaleRecordDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/SaleRecordDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/SaleRecordDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/SaleRecordDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/TypeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/TypeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/TypeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/dao/TypeDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/BookInRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/BookInRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/BookSaleRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/BookSaleRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/InRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/InRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/Publisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/Publisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/SaleRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/SaleRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/database/ValueObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/entity/ValueObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/main/DataUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/main/DataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/main/JDBCExector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/main/JDBCExector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/service/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/service/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/service/PublisherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/service/PublisherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/service/PublisherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/service/PublisherServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/service/SaleRecordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/service/SaleRecordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/src/service/SaleRecordServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/src/service/SaleRecordServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../练习：图书信息管理系统/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../练习：图书信息管理系统/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../练习：图书信息管理系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../练习：图书信息管理系统/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../（已掌握内容）/TreeSet集合定制排序（lambda表达式）/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../（已掌握内容）/TreeSet集合定制排序（lambda表达式）/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,38 +96,86 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java.dtd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="100">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="method#testDom#0;class#Main#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Dom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="250">
+              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#Main#0;class#Main#0" />
-                <element signature="method#test#0;class#Main#0" />
-                <element signature="docComment;method#listNodes#0;class#Main#0" />
-                <element signature="method#listNodes#0;class#Main#0" />
-                <element signature="docComment;method#findNodeByTag#0;class#Main#0" />
-                <element signature="method#findNodeByTag#0;class#Main#0" />
-                <element signature="docComment;method#findNodeByAttrValue#0;class#Main#0" />
-                <element signature="method#findNodeByAttrValue#0;class#Main#0" />
-                <element signature="docComment;method#findNodeById#0;class#Main#0" />
-                <element signature="e#4874#4925#1" />
-                <element signature="e#4924#4925#0" expanded="true" />
-                <element signature="docComment;method#deleteNodeById#0;class#Main#0" />
-                <element signature="docComment;method#updateNodeById#0;class#Main#0" />
-                <element signature="method#updateNodeById#0;class#Main#0" />
-                <element signature="docComment;method#addNodeById#0;class#Main#0" />
-                <element signature="method#addNodeById#0;class#Main#0" />
-                <element signature="docComment;field#w#0;class#Main#0" />
-                <element signature="method#writeXML#0;class#Main#0" />
+                <element signature="method#test#0;class#Dom#0" />
+                <element signature="docComment;method#listNodes#0;class#Dom#0" />
+                <element signature="method#listNodes#0;class#Dom#0" />
+                <element signature="docComment;method#findNodeByTag#0;class#Dom#0" />
+                <element signature="method#findNodeByTag#0;class#Dom#0" />
+                <element signature="docComment;method#findNodeByAttrValue#0;class#Dom#0" />
+                <element signature="method#findNodeByAttrValue#0;class#Dom#0" />
+                <element signature="docComment;method#findNodeById#0;class#Dom#0" />
+                <element signature="e#4363#4364#0" expanded="true" />
+                <element signature="e#4413#4414#0" expanded="true" />
+                <element signature="docComment;method#deleteNodeById#0;class#Dom#0" />
+                <element signature="docComment;method#updateNodeById#0;class#Dom#0" />
+                <element signature="method#updateNodeById#0;class#Dom#0" />
+                <element signature="docComment;method#addNodeById#0;class#Dom#0" />
+                <element signature="method#addNodeById#0;class#Dom#0" />
+                <element signature="method#writeXML#0;class#Dom#0" />
+                <element signature="e#7845#7846#0" expanded="true" />
+                <element signature="e#7882#7883#0" expanded="true" />
+                <element signature="e#7925#7926#0" expanded="true" />
+                <element signature="e#7955#7956#0" expanded="true" />
+                <element signature="e#7989#7990#0" expanded="true" />
+                <element signature="e#8014#8015#0" expanded="true" />
+                <element signature="e#8051#8052#0" expanded="true" />
+                <element signature="e#8082#8083#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <folding>
+                <element signature="e#1403#1404#0" expanded="true" />
+                <element signature="e#1435#1436#0" expanded="true" />
+                <element signature="e#1472#1473#0" expanded="true" />
+                <element signature="e#1503#1504#0" expanded="true" />
+                <element signature="e#1542#1543#0" expanded="true" />
+                <element signature="e#1576#1577#0" expanded="true" />
+                <element signature="e#1623#1624#0" expanded="true" />
+                <element signature="e#1659#1660#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="25">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -53,28 +183,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="250">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/java.dtd" />
-        <option value="$PROJECT_DIR$/java.xml" />
+        <option value="$PROJECT_DIR$/src/Sax.java" />
+        <option value="$PROJECT_DIR$/src/Dom.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/java.xml" />
+        <option value="$PROJECT_DIR$/note.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="110" />
     <option name="y" value="35" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -89,6 +235,11 @@
               <item name="JAXP解析XML" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAXP解析XML" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JAXP解析XML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAXP解析XML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -99,8 +250,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556718553879" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../文件任意访问" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562210300267" />
+    <property name="last_opened_file_path" value="D:/Software/dom4j/dom4j-2.1.1.jar!/" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -150,17 +304,18 @@
       <workItem from="1556691940427" duration="8433000" />
       <workItem from="1556700532256" duration="1182000" />
       <workItem from="1556715010469" duration="3574000" />
+      <workItem from="1562206536002" duration="3189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13189000" />
+    <option name="totallyTimeSpent" value="16378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -169,7 +324,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2970297" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.296034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -210,13 +365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Software/jdk/lib/src.zip!/java.xml/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-344">
@@ -231,40 +379,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java.xml">
+    <entry file="file://$PROJECT_DIR$/java.dtd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#1542#1543#0" expanded="true" />
+            <element signature="e#1576#1577#0" expanded="true" />
+            <element signature="e#1623#1624#0" expanded="true" />
+            <element signature="e#1659#1660#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="50">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Main#0;class#Main#0" />
-            <element signature="method#test#0;class#Main#0" />
-            <element signature="docComment;method#listNodes#0;class#Main#0" />
-            <element signature="method#listNodes#0;class#Main#0" />
-            <element signature="docComment;method#findNodeByTag#0;class#Main#0" />
-            <element signature="method#findNodeByTag#0;class#Main#0" />
-            <element signature="docComment;method#findNodeByAttrValue#0;class#Main#0" />
-            <element signature="method#findNodeByAttrValue#0;class#Main#0" />
-            <element signature="docComment;method#findNodeById#0;class#Main#0" />
-            <element signature="e#4874#4925#1" />
-            <element signature="e#4924#4925#0" expanded="true" />
-            <element signature="docComment;method#deleteNodeById#0;class#Main#0" />
-            <element signature="docComment;method#updateNodeById#0;class#Main#0" />
-            <element signature="method#updateNodeById#0;class#Main#0" />
-            <element signature="docComment;method#addNodeById#0;class#Main#0" />
-            <element signature="method#addNodeById#0;class#Main#0" />
-            <element signature="docComment;field#w#0;class#Main#0" />
-            <element signature="method#writeXML#0;class#Main#0" />
+            <element signature="method#testDom#0;class#Main#0" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="method#test#0;class#Dom#0" />
+            <element signature="docComment;method#listNodes#0;class#Dom#0" />
+            <element signature="method#listNodes#0;class#Dom#0" />
+            <element signature="docComment;method#findNodeByTag#0;class#Dom#0" />
+            <element signature="method#findNodeByTag#0;class#Dom#0" />
+            <element signature="docComment;method#findNodeByAttrValue#0;class#Dom#0" />
+            <element signature="method#findNodeByAttrValue#0;class#Dom#0" />
+            <element signature="docComment;method#findNodeById#0;class#Dom#0" />
+            <element signature="e#4363#4364#0" expanded="true" />
+            <element signature="e#4413#4414#0" expanded="true" />
+            <element signature="docComment;method#deleteNodeById#0;class#Dom#0" />
+            <element signature="docComment;method#updateNodeById#0;class#Dom#0" />
+            <element signature="method#updateNodeById#0;class#Dom#0" />
+            <element signature="docComment;method#addNodeById#0;class#Dom#0" />
+            <element signature="method#addNodeById#0;class#Dom#0" />
+            <element signature="method#writeXML#0;class#Dom#0" />
+            <element signature="e#7845#7846#0" expanded="true" />
+            <element signature="e#7882#7883#0" expanded="true" />
+            <element signature="e#7925#7926#0" expanded="true" />
+            <element signature="e#7955#7956#0" expanded="true" />
+            <element signature="e#7989#7990#0" expanded="true" />
+            <element signature="e#8014#8015#0" expanded="true" />
+            <element signature="e#8051#8052#0" expanded="true" />
+            <element signature="e#8082#8083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>IntelliJ IDEA IU-183.5912.21</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JAXP解析XML</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

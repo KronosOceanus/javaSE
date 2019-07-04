@@ -1,6 +1,6 @@
 package dao;
 
-import database.Book;
+import entity.Book;
 
 import java.util.Collection;
 

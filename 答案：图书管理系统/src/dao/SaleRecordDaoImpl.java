@@ -1,6 +1,6 @@
 package dao;
 
-import database.SaleRecord;
+import entity.SaleRecord;
 
 import java.util.ArrayList;
 import java.util.Collection;

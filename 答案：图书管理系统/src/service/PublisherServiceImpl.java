@@ -1,7 +1,7 @@
 package service;
 
 import dao.PublisherDao;
-import database.*;
+import entity.*;
 
 import java.util.Collection;
 

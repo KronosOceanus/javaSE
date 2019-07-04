@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD实例文档 -->
+<!ELEMENT web-app (servlet*, servlet-mapping*, welcome-file-list?)>
+<!ELEMENT servlet (servlet-name, description?, (servlet-class|jsp-file))>
+<!ELEMENT servlet-mapping (servlet-name, url-pattern+)>
+<!ELEMENT servlet-name (#PCDATA)>
+<!ELEMENT servlet-class (#PCDATA)>
+<!ELEMENT url-pattern (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT jsp-file (#PCDATA)>
+
+<!ELEMENT welcome-file-list (welcome-file+)>
+<!ELEMENT welcome-file (#PCDATA)>
+
+<!ATTLIST web-app version CDATA #IMPLIED>

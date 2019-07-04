@@ -31,9 +31,10 @@ public class JDBCExector {
         return jdbcExector;
     }
 
-    public int insert(String sql,Object[] params) throws Exception {
+    public int insert(String sql,Object... params) throws Exception {
         return qr.update(getInstance().conn,sql,params);
     }
+    //参数（sql语句，适配器（标明返回类型））
     //单行（1 result）
     public Object[] query(String sql, ArrayHandler ah) throws Exception{
         return qr.query(getInstance().conn,sql,ah);

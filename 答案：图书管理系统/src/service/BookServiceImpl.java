@@ -3,8 +3,8 @@ package service;
 import dao.BookDao;
 import dao.PublisherDao;
 import dao.TypeDao;
-import database.Book;
-import database.Type;
+import entity.Book;
+import entity.Type;
 
 import java.util.Collection;
 

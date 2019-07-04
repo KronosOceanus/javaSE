@@ -1,7 +1,6 @@
 package dao;
 
-import database.Book;
-import database.BookSaleRecord;
+import entity.BookSaleRecord;
 
 import java.util.Collection;
 

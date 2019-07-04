@@ -1,6 +1,6 @@
 package dao;
 
-import database.Type;
+import entity.Type;
 
 import java.util.ArrayList;
 import java.util.Collection;

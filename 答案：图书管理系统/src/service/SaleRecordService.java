@@ -1,9 +1,8 @@
 package service;
 
-import database.*;
+import entity.*;
 
 import java.util.Collection;
-import java.util.Date;
 
 public interface SaleRecordService {
 

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<hello version="1" id="1">
+
+    <a11111>
+    <!--  注释  -->
+    </a11111>
+
+    <a/>
+
+    <b>
+        <!-- CDATA中的东西不会被解析 -->
+        <![CDATA[
+            if(a>b && b<c)
+            ]]>
+    </b>
+
+</hello>

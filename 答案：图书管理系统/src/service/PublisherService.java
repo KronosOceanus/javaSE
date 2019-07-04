@@ -1,7 +1,6 @@
 package service;
 
-import database.Publisher;
-import database.ValueObject;
+import entity.Publisher;
 
 import java.util.Collection;
 

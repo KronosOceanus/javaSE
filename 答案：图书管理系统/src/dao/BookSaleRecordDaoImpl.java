@@ -1,6 +1,6 @@
 package dao;
 
-import database.*;
+import entity.*;
 
 import java.util.*;
 

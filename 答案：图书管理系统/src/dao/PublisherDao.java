@@ -1,6 +1,6 @@
 package dao;
 
-import database.Publisher;
+import entity.Publisher;
 
 import java.util.Collection;
 

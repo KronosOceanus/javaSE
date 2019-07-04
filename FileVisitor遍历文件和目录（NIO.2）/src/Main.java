@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception{
 
-        Files.walkFileTree(Paths.get("D:","project","FileVisitor遍历文件和目录（NIO.2）")
+        Files.walkFileTree(Paths.get("D:","project","javaSE","FileVisitor遍历文件和目录（NIO.2）")
                 ,new SimpleFileVisitor<Path>(){  //————————此处匿名内部类
 
                     //访问文件时触发该方法
