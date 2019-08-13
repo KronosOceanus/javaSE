@@ -32,7 +32,7 @@ public class Person implements Serializable {
         out.writeInt(age);
     }
 
-    //调用readObject方法之后才会调用readResolve方法，如果重写，会立刻返回readResolve方法的对象
+    //调用readObject方法之后才会调用readResolve方法，如果重写readResolve方法，会立刻返回readResolve方法的对象
     private void readObject(ObjectInputStream in)throws IOException,ClassNotFoundException{
         //将读取的字符串反转后赋值给name变量
         this.name = ((StringBuffer)in.readObject()).reverse().toString();
