@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f9d6653-b382-417f-912c-cb8808d08ca8" name="Default Changelist" comment="" />
+    <list default="true" id="4f9d6653-b382-417f-912c-cb8808d08ca8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DBCP连接池/src/utils/MyDataSourceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/data_source_impl/MyConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/data_source_impl/MyConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/dbcp/DBCPUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/dbcp/DBCPUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/dbcp/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/dbcp/JDBCUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/data_source_impl/MyConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/data_source_impl/MyConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/DBCPUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/DBCPUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/JDBCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/src/JDBCExector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/src/JDBCExector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBUtils使用/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBUtils使用/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java命令/git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../java命令/git.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyInvocationHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/GunDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/GunDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/MyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/MyProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/MyProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/MyInvocationHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/src/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/src/MyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../答案：图书管理系统/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../答案：图书管理系统/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/线程相关类/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/线程相关类/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/线程相关类/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/线程相关类/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/线程相关类/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/线程相关类/MyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,36 +46,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1131988179">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="648" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="25">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -52,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="350">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -70,20 +84,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Account.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="80" />
@@ -91,6 +102,7 @@
     <option name="width" value="1750" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -120,7 +132,8 @@
     <property name="SearchEverywhereHistoryKey" value="a&#9;FILE&#9;file://D:/project/线程相关类/src/Account.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549965405897" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565681369975" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,17 +177,20 @@
       <workItem from="1549964413157" duration="1003000" />
       <workItem from="1550022485596" duration="924000" />
       <workItem from="1550044799117" duration="13000" />
+      <workItem from="1565680273000" duration="78000" />
+      <workItem from="1565681187069" duration="201000" />
+      <workItem from="1565683923768" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1940000" />
+    <option name="totallyTimeSpent" value="2267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="24" width="1400" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25707898" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26825634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -183,16 +199,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2610063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -202,19 +219,17 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="25">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -222,19 +237,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="350">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>

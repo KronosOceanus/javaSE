@@ -9,6 +9,7 @@ import java.sql.SQLException;
 
 /**
  * DBCP实现工具类
+ * 获取连接 / QueryRunner
  */
 public class JDBCUtils {
 

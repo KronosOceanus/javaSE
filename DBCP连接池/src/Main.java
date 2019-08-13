@@ -2,6 +2,7 @@ import data_source_impl.MyDataSource;
 import data_source_impl.MyDataSourceMax;
 import dbcp.DBCPUtils;
 import dbcp.JDBCUtils;
+import utils.MyDataSourceUtils;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -40,7 +41,7 @@ public class Main {
     }
 */
 
-    //MyDataSourceMax测试
+    // MyDataSourceMax 测试
     private void testMyDataSource(){
         MyDataSourceMax dataSource = new MyDataSourceMax();
         String sql = "update t_book_type set type_name = '政治学' where id = 22";
@@ -55,14 +56,12 @@ public class Main {
             dataSource.backConnection(conn);
         }
     }
-
-    //DataSource与DBUtils结合测试
+    // DataSource 与 DBUtils 结合测试
     private void testDS() throws SQLException {
         String sql = "update t_book_type set type_name = '经济学' where id = 22";
         JDBCUtils.qr.update(sql);
     }
-
-    //DBCP测试
+    // DBCP 测试
     private void testDBCP(){
         String sql = "update t_book_type set type_name = '法学' where id = 22";
         try{
@@ -73,12 +72,25 @@ public class Main {
             e.printStackTrace();
         }
     }
-
+    // ThreadLocal 连接池测试
+    private void testTL() throws SQLException {
+        try {
+            stmt = MyDataSourceUtils.getCurrentConnetion().createStatement();
+            MyDataSourceUtils.startTransaction();
+            stmt.executeUpdate("update t_book_type set type_name = '政治' where id = 22");
+            int i=1/0;
+            stmt.executeUpdate("update t_book_type set type_name = '政治学学学' where id = 22");
+            MyDataSourceUtils.commit();
+        } catch (Exception e) {
+            MyDataSourceUtils.rollback();
+            e.printStackTrace();
+        }finally {
+            MyDataSourceUtils.commit();
+        }
+    }
 
     public static void main(String[] args) throws Exception {
         Main m = new Main();
-        m.testDS();
-        m.testMyDataSource();
-        m.testDBCP();
+        m.testTL();
     }
 }

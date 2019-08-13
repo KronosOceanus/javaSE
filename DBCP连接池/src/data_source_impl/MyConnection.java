@@ -7,6 +7,7 @@ import java.util.Properties;
 import java.util.concurrent.Executor;
 
 /**
+ * 装饰者模式
  * 将Connection对象改造
  * close方法变为归还连接到连接池
  */
@@ -27,6 +28,18 @@ public class MyConnection implements Connection {
     @Override
     public Statement createStatement() throws SQLException {
         return conn.createStatement();
+    }
+    @Override
+    public void setAutoCommit(boolean autoCommit) throws SQLException {
+        conn.setAutoCommit(autoCommit);
+    }
+    @Override
+    public void commit() throws SQLException {
+        conn.commit();
+    }
+    @Override
+    public void rollback() throws SQLException {
+        conn.rollback();
     }
 
 
@@ -66,25 +79,12 @@ public class MyConnection implements Connection {
         return null;
     }
 
-    @Override
-    public void setAutoCommit(boolean autoCommit) throws SQLException {
-
-    }
 
     @Override
     public boolean getAutoCommit() throws SQLException {
         return false;
     }
 
-    @Override
-    public void commit() throws SQLException {
-
-    }
-
-    @Override
-    public void rollback() throws SQLException {
-
-    }
 
 
     @Override

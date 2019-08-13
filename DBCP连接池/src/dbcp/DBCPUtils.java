@@ -8,6 +8,9 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Properties;
 
+/**
+ * 获取 DataSource / Connection
+ */
 public class DBCPUtils {
 
     private static DataSource dataSource;

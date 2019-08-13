@@ -30,6 +30,12 @@ public class JDBCExector {
         }
         return jdbcExector;
     }
+    //得到 Connection 用于事务管理
+    public static Connection getConnection() throws Exception{
+        return getInstance().conn;
+    }
+
+
 
     public int insert(String sql,Object... params) throws Exception {
         return qr.update(getInstance().conn,sql,params);

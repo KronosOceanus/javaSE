@@ -2,15 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4efcf8c1-4f47-4059-807d-dd0a902d367c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../反射获取并操作类/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射读取XML/reflect.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射读取XML/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../反射读取XML/src/Sax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAXP解析XML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAXP解析XML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/data_source_impl/MyConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/data_source_impl/MyDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/data_source_impl/MyDataSourceMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/dbcp/DBCPUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/dbcp/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/out/production/DBCP连接池/utils/PropsUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/data_source_impl/MyConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/data_source_impl/MyConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/DBCPUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/DBCPUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/dbcp/JDBCUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java命令/git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../java命令/git.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../反射获取并操作类/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反射获取并操作类/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../反射获取并操作类/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反射获取并操作类/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../反射获取并操作类/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../反射获取并操作类/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyInvocationHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/out/production/动态代理和AOP/MyProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/GunDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/GunDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/MyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动态代理和AOP/src/MyProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../动态代理和AOP/src/MyProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/out/production/反射创建动态代理/MyInvocationHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../反射创建动态代理/src/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../反射创建动态代理/src/MyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dao/CommonDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="250">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#getJDBCExector#0;class#CommonDaoImpl#0" />
@@ -35,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/DataUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="825">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
               <folding>
                 <element signature="method#getSetterMethodName#0;class#DataUtil#0" />
                 <element signature="method#addFields#0;class#DataUtil#0" />
@@ -49,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/JDBCExector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="79">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="method#JDBCExector#0;class#JDBCExector#0" />
                 <element signature="method#getInstance#0;class#JDBCExector#0" />
@@ -76,7 +95,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dao/BookDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="150">
               <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dao/SaleRecordDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="175">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -219,10 +238,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="43" />
-    <option name="y" value="102" />
-    <option name="width" value="1530" />
-    <option name="height" value="865" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -345,17 +364,18 @@
       <workItem from="1560829416248" duration="651000" />
       <workItem from="1560831780257" duration="22000" />
       <workItem from="1562225093465" duration="855000" />
+      <workItem from="1563871227941" duration="12000" />
+      <workItem from="1564098788528" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98654000" />
+    <option name="totallyTimeSpent" value="98680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38873994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20174263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -658,6 +678,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/CommonDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getJDBCExector#0;class#CommonDaoImpl#0" />
+            <element signature="method#getDatas#0;class#CommonDaoImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/DataUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="method#getSetterMethodName#0;class#DataUtil#0" />
+            <element signature="method#addFields#0;class#DataUtil#0" />
+            <element signature="method#main#0;class#DataUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/ValueObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/BookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/SaleRecordDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#findAll#0;class#SaleRecordDaoImpl#0" />
+            <element signature="method#findByDate#0;class#SaleRecordDaoImpl#0" />
+            <element signature="method#findById#0;class#SaleRecordDaoImpl#0" />
+            <element signature="method#addOrUpdate#0;class#SaleRecordDaoImpl#0" />
+            <element signature="method#getSingle#0;class#SaleRecordDaoImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/PublisherDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#findAll#0;class#PublisherDaoImpl#0" />
+            <element signature="method#findByName#0;class#PublisherDaoImpl#0" />
+            <element signature="method#findById#0;class#PublisherDaoImpl#0" />
+            <element signature="method#addOrUpdate#0;class#PublisherDaoImpl#0" />
+            <element signature="method#getSingle#0;class#PublisherDaoImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/entity/BookSaleRecord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -687,84 +778,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/JDBCExector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="79">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="method#JDBCExector#0;class#JDBCExector#0" />
             <element signature="method#getInstance#0;class#JDBCExector#0" />
             <element signature="method#executeQuery#0;class#JDBCExector#0" />
             <element signature="method#executeUpdate#0;class#JDBCExector#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/entity/ValueObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/BookDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/SaleRecordDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#findAll#0;class#SaleRecordDaoImpl#0" />
-            <element signature="method#findByDate#0;class#SaleRecordDaoImpl#0" />
-            <element signature="method#findById#0;class#SaleRecordDaoImpl#0" />
-            <element signature="method#addOrUpdate#0;class#SaleRecordDaoImpl#0" />
-            <element signature="method#getSingle#0;class#SaleRecordDaoImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/PublisherDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#findAll#0;class#PublisherDaoImpl#0" />
-            <element signature="method#findByName#0;class#PublisherDaoImpl#0" />
-            <element signature="method#findById#0;class#PublisherDaoImpl#0" />
-            <element signature="method#addOrUpdate#0;class#PublisherDaoImpl#0" />
-            <element signature="method#getSingle#0;class#PublisherDaoImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dao/CommonDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getJDBCExector#0;class#CommonDaoImpl#0" />
-            <element signature="method#getDatas#0;class#CommonDaoImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/DataUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding>
-            <element signature="method#getSetterMethodName#0;class#DataUtil#0" />
-            <element signature="method#addFields#0;class#DataUtil#0" />
-            <element signature="method#main#0;class#DataUtil#0" />
           </folding>
         </state>
       </provider>

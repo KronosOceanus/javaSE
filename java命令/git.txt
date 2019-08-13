@@ -38,12 +38,13 @@ git checkout HEAD ." 或者 "git checkout HEAD <文件名>
 
 ————————————————————————
 上传文件执行命令步骤
-git init
+git init ——初始化
 git config --global user.name 'KronosOceanus' 
 git config --global user.email 704690152@qq.com
-git add .
-git commit -m ""
-git remote add origin
-git remote add upsgit pulltream
-git pull --rebase origin master
-git push -u origin master
+	————指定账户
+git add . ————添加文件
+git commit -m "" ————提交
+git remote add origin <url> ————联系远程仓库
+git remote add upstream  <url> ————上游建立连接
+git pull --rebase origin master ————合并代码
+git push -u origin master ————推送分支到远程仓库

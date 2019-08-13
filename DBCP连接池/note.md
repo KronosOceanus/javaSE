@@ -1,11 +1,25 @@
 [TOC]
 
 ## 实现数据库连接池的思路
+**注意！：数据库连接池是将 Connection 放入 ThreadLocal 实现的！保证了事务**
 1. 实现javax.sql.DataSource接口中的getConnection方法
 2. 提供一个集合（LinkedList）用来存放连接
 3. 为连接池初始化多个连接
 4. 使用连接，调用getConnection方法，为保证线程同步，先把连接从List中移除
 5. 释放资源，不执行close方法，而是将连接添加到List中
+
+## 数据库连接池处理多线程
+* 一个线程在不同时刻（或者在不同地方）获取到的 Connection，肯定不是同一个 Connection，
+* 事务操作需要在 service 层完成，却又需要 Connection 对象（本应在 dao 层），而直接在
+    service 层获取的 Connection 对象，为了完成事务，还需要作为参数传到 dao 层（为了保
+        证事务操作是同一个 Connection 执行）
+* 为了解决上述问题，需要编写一个工具类：使用 ThreadLocal 储存当前线程的 Connection 对
+    象（从连接池获取），从该工具类可以获取当前线程 Connetion 对象，保证事务 dao 层操作
+        使用的是同一个 Connetion
+* 例：
+```java
+
+```
 
 ## 装饰模式
 #### 作用
