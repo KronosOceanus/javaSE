@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ecbeee6-418e-4c3a-81d1-c14132e9835c" name="Default Changelist" comment="" />
+    <list default="true" id="2ecbeee6-418e-4c3a-81d1-c14132e9835c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBCP连接池/src/utils/MyDataSourceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBCP连接池/src/utils/MyDataSourceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java命令/极速浏览器.lnk" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -43,13 +50,13 @@
     <option name="width" value="1510" />
     <option name="height" value="875" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,6 +77,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,17 +142,17 @@
       <workItem from="1552490300562" duration="76000" />
       <workItem from="1552537631020" duration="1465000" />
       <workItem from="1553950763438" duration="598000" />
+      <workItem from="1568530245617" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9589000" />
+    <option name="totallyTimeSpent" value="9593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="60" width="1208" height="700" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33391306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -158,7 +166,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />

@@ -17,24 +17,24 @@ public class MyDataSourceUtils {
 
     //事务
     public static void startTransaction() throws SQLException {
-        getCurrentConnetion().setAutoCommit(false);
+        getCurrentConnection().setAutoCommit(false);
     }
     public static void rollback() throws SQLException{
-        getCurrentConnetion().rollback();
+        getCurrentConnection().rollback();
     }
     public static void commit() throws SQLException{
-        getCurrentConnetion().commit();
+        getCurrentConnection().commit();
     }
     public static void release() throws SQLException{
         //将 Connection 从 ThreadLocal 中移除
         tl.remove();
         //注意，此时使用的是 MyConnection
-        getCurrentConnetion().close();
+        getCurrentConnection().close();
     }
 
 
     //获取当前线程连接
-    public static Connection getCurrentConnetion() throws SQLException {
+    public static Connection getCurrentConnection() throws SQLException {
         //先从 ThreadLocal 中获取
         Connection conn = tl.get();
         //如果 ThreadLocal 中没有，再从数据库连接池获取，并放入当前线程
