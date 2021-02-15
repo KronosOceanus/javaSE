@@ -42,8 +42,9 @@ git init ——初始化
 git config --global user.name 'KronosOceanus' 
 git config --global user.email 704690152@qq.com
 	————指定账户
+git config --global core.autocrlf false  ————修改编码方式
 git add . ————添加文件
-git commit -m "" ————提交
+git commit -m " " ————提交
 git remote add origin <url> ————联系远程仓库
 git remote add upstream  <url> ————上游建立连接
 git pull --rebase origin master ————合并代码

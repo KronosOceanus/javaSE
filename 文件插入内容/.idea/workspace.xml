@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a6b53bd-db36-429d-a56d-0c59b81d5a08" name="Default Changelist" comment="" />
+    <list default="true" id="3a6b53bd-db36-429d-a56d-0c59b81d5a08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Channel（NIO）/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../发送GET和POST请求/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../爬虫/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../转换流/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Channel（NIO）/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Channel（NIO）/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Channel（NIO）/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Channel（NIO）/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Channel（NIO）/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Channel（NIO）/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Channel（NIO）/Channel（NIO）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Channel（NIO）/Channel（NIO）.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Channel（NIO）/FileChannelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Channel（NIO）/FileChannelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Channel（NIO）/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Channel（NIO）/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC编程实例/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC编程实例/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC编程实例/out/production/JDBC编程实例/META-INF/JDBC编程实例.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../发送GET和POST请求/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../发送GET和POST请求/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../发送GET和POST请求/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../发送GET和POST请求/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../发送GET和POST请求/发送GET和POST请求.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../发送GET和POST请求/发送GET和POST请求.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件操作/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件操作/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件操作/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件操作/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件操作/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件操作/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件操作/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件操作/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件操作/文件操作.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件操作/文件操作.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../转换流/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../转换流/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../转换流/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../转换流/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../转换流/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../转换流/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../转换流/out/production/转换流/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../转换流/out/production/转换流/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../转换流/转换流.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../转换流/转换流.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -40,6 +66,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -55,6 +84,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,17 +163,18 @@
       <workItem from="1548752852362" duration="910000" />
       <workItem from="1556692914851" duration="6000" />
       <workItem from="1556693267082" duration="175000" />
+      <workItem from="1600404406980" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1091000" />
+    <option name="totallyTimeSpent" value="1101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="88" y="28" width="1400" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25707898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26080477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -157,12 +188,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -179,10 +212,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InsertContent.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -193,10 +226,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/InsertContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
