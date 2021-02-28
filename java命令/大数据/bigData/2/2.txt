@@ -1,0 +1,610 @@
+1807004528 01
+ 平台监控
+ 探索环境
+ 我的课程
+ 考试系统
+ 资料工具
+ 学习资料
+ 教材列表
+ 相关下载
+ 我的通知
+ 关于我们
+在线实验手册资料工具/在线实验手册
+实验一 基本操作实验
+HDFS实验：部署HDFS 实验任务书
+HDFS实验：读写HDFS文件 实验任务书
+YARN实验：部署YARN集群 实验任务书
+MapReduce实验：单词计数 实验任务书
+MapReduce实验：二次排序 实验任务书
+MapReduce实验：计数器 实验任务书
+实验八 MapReduce实验：Join操作
+实验九 MapReduce实验：分布式缓存
+实验十 Hive实验：部署Hive
+实验十一 Hive实验：新建Hive表
+实验十二 Hive实验：Hive分区
+实验十三 Spark实验：部署Spark集群
+实验十四 Spark实验：SparkWordCount
+实验十五 Spark实验：RDD综合实验
+实验十六 Spark实验：Spark综例
+实验十七 Spark实验：Spark SQL
+实验十八 Spark实验：Spark Streaming
+实验十九 Spark实验：GraphX
+实验二十 Zookeeper实验：部署ZooKeeper
+实验二十一 Zookeeper实验：进程协作
+实验二十二 HBase实验：部署HBase
+实验二十三 HBase实验：新建HBase表
+实验二十四 Storm实验：部署Storm
+实验二十五 Storm实验：实时WordCountTopology
+实验二十六 Flume实验：文件数据Flume至HDFS
+实验二十七 Kafka实验：订阅推送示例
+实验二十八 Pig实验：Pig版WordCount
+实验二十九 Redis实验：Redis部署与简单使用
+实验三十 Redis实验：读写Redis
+实验三十一 MongoDB实验：读写MongoDB
+实验三十二 LevelDB实验：读写LevelDB
+实验三十三 Mahout实验：K-Means
+实验三十四 使用Spark实现K-Means
+实验三十五 使用Spark实现SVM
+实验三十六 使用Spark实现FP-Growth
+实验三十七 综合实战：车牌识别
+实验三十八 综合实战：搜索引擎
+实验三十九 综合实战：精确营销
+实验四十 综合实战：环境大数据
+实验四十一 综合实战：物联网
+实验四十二 综合实战：贷款风险评估
+实验四十三 Python基础：流程控制
+实验四十四 Python基础：列表和元组
+实验四十五 Python基础：字典
+实验四十六 Python基础：文件操作
+实验四十七 Python统计全国各省城市数量分布
+实验四十八 Python统计上海2016年每月历史天气
+实验四十九 Python统计上海2016年每月空气质量
+实验五十 Python统计北京和上海2016年月均气温对比
+实验五十一 Python统计北京和上海2016年空气质量对比
+实验五十二 Python算法：决策树分类
+实验五十三 Python算法：随机森林分类
+实验五十四 Python算法：朴素贝叶斯分类
+实验五十五 Python算法：K最近邻分类
+实验五十六 Python算法：支持向量机分类
+实验五十七 Python算法：K-means聚类
+实验五十八 Python算法：DBSCAN聚类
+实验五十九 Python算法：回归分析
+实验六十 Python算法：Apriori关联规则
+实验六十一 Python实战：随机森林分类空气质量
+实验六十二 Python实战：区域经纬度聚类
+实验六十三 Python实战：回归预测空气指数
+实验六十四 R语言基础：流程控制
+实验六十五 R语言基础：文件操作
+实验六十六 R语言基础：数据帧
+实验六十七 R语言基础：因子操作
+实验六十八 R语言算法：决策树分类
+实验六十九 R语言算法：随机森林分类
+实验七十 R语言算法：贝叶斯分类
+实验七十一 R语言算法：KNN分类
+实验七十二 R语言算法：SVM分类
+实验七十三 R语言算法：K-means聚类
+实验七十四 R语言算法：DBSCAN聚类
+实验七十五 R语言算法：回归分析
+实验七十六 R语言算法：Apriori关联规则实验
+实验七十七 R语言算法：时间序列分析
+实验七十八 R语言实战：回归预测空气指数
+实验七十九 R语言实战：按月进行时间序列预测温度
+实验八十 R语言实战：区域经纬度聚类
+实验八十一 R语言实战：随机森林分类空气质量
+附录A Linux基础：常用基本命令
+附录B Linux基础：文件操作
+附录C Linux基础：sed
+附录D Linux基础：awk
+爬取豆瓣电影信息
+爬取豆瓣图书Top250
+爬取双色球开奖信息
+网络小说下载（一）
+网络小说下载（二）
+正则表达式
+Python线性回归实验
+Spark综合实战：环境数据读写
+Spark综合实战：词频统计
+Spark综合实战：中文分词
+Spark综合实战：特征提取
+Spark综合实战：GM11预测环境数据
+Spark综合实战：日志分析
+Spark综合实战：分类算法学习
+Spark综合实战：聚类算法学习
+Spark综合实战：ALS算法推荐
+本地配置maven-scala
+R语言实战：简单地铁路线推荐
+R语言实战：批量抓取位置经纬度坐标
+MR实现倒排索引
+Spark实现倒排索引
+实验R语言：股票数据抓取与分析 （一）
+实验R语言：股票数据抓取与分析（二）
+附录E Linux基础：文本编辑器vi
+实验R语言：分析新浪股票数据
+实验R语言：多元线性回归研究我国经济增长
+房价数据分析
+实验R语言：时间序列分析-ARIMA模型（一）
+实验R语言：时间序列分析-指数平滑模型（二）
+spark垃圾邮件分类
+夏普比率与最大回撤和最大回撤时间
+最优风险资产组合(一)
+最优风险资产组合(二)
+实验R语言：金融风险管理：VaR 和 ES
+实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+实验R语言：金融风险管理：分位数回归法计算 VaR
+实验R语言：对英国房屋价格建模并预测
+实验R语言：航空燃油的交叉对冲
+预测股票走势
+Sqoop1+Phoenix迁移操作京东手机数据
+实验R语言：分析股票指数的GARCH效应
+基于CAPM模型的预期收益率与实际收益率
+Spark：用户App下载关联规则计算
+Shell基础：（流程控制）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+Shell运维实践：（服务器安全）
+航空公司客户价值分析
+Spark：预测谋杀率
+漏电窃电用户判断
+Python：中医病理分析
+Python数据挖掘-电商产品评论数据情感分析
+Python实战：实时中美货币转换
+Linux基础：（正则表达式）
+Shell运维实践：（用户管理）
+java正则表达式
+scala正则表达式
+kettle介绍及从文本文件抽取数据到数据库
+CSV文件数据抽取到数据库
+excel文件导入数据库
+Json文件和xml文件的抽取
+MySQL数据迁移MongoDB
+住房数据清洗
+银华基金数据清洗实例
+客户签到数据的清洗转换
+基于触发器的数据增删改的增量更新
+数据脱敏实例
+Shell运维实践：（主机信息检测）
+Spark综合实战：游戏数据分析
+金1：实验R语言：分析新浪股票数据
+金2：实验R语言：股票数据抓取与分析（一）
+金3：实验R语言：股票数据抓取与分析（二）
+金4：实验R语言：时间序列分析-ARIMA模型（一）
+金5：实验R语言：时间序列分析-指数平滑模型（二）
+金6：实验R语言：对英国房屋价格建模并预测
+金7：实验R语言：航空燃油的交叉对冲
+金8：实验R语言：多元线性回归研究我国经济增长
+金9：实验R语言：金融风险管理：VaR 和 ES
+金10：实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+金11：实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+金12：实验R语言：金融风险管理：分位数回归法计算 VaR
+金13：实验R语言：分析股票指数的GARCH效应
+金14：实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+金15：实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+金16：实验Python：夏普比率与最大回撤和最大回撤时间
+金17：实验Python：最优投资组合（上）
+金18：实验Python：最优投资组合（下）
+金19：实验Python：预测股票走势
+金20：实验Python：基于CAPM模型的预期收益率与实际收益率
+金21：实验Python：航空公司客户价值分析
+金22：实验Python：漏窃电用户行为分析与事件识别（上）
+金23：实验Python：漏窃电用户行为分析与事件识别（下）
+金24：实验Python：电商产品评论数据情感分析
+金25：实验Python：中美实时货币转换
+金26：实验Python：利用层次聚类算法进行基于基站定位数据的商圈分析
+金27：实验Python：应用系统负载分析与磁盘容量预测（上）
+金28：实验Python：应用系统负载分析与磁盘容量预测（下）
+R语言电子商务实验-航空公司客户价值分析
+R语言电子商务实验-基于基站定位数据的商圈分析
+R语言电子商务实验-数据分析实战1：用R做柱状图分析销售额减少
+R语言电子商务实验-数据分析实战2：交叉列表统计何种顾客会离开
+R语言电子商务实验-数据分析实战3：AB测试分析哪种广告的效果更好
+R语言电子商务实验-数据分析实战4：多元回归分析如何通过各种广告的组合获得更多的用户
+R语言电子商务实验-数据分析实战5：逻辑回归分析根据过去的行为能否预测当下
+R语言电子商务实验-数据分析实战6：利用k-means聚类选择目标用户群
+R语言电子商务实验-数据分析实战7：利用决策树分析哪些用户是长期用户
+R语言电子商务实验-员工离职预测实战(一)
+R语言电子商务实验-员工离职预测实战(二)
+Python电子商务实验-电商产品评论数据情感分析
+Python电子商务实验-电商打折套路解析（上）
+Python电子商务实验-电商打折套路解析（下）
+Python电子商务实验-分析eBay汽车销售数据
+Python电子商务实验-分析客户流失(二)
+Python电子商务实验-分析客户流失(一)
+Python电子商务实验-航空公司客户价值分析
+Python电子商务实验-利用Python进行市场购物篮分析
+Python电子商务实验-利用Python做淘宝商品的数据挖掘分析
+Python电子商务实验-利用层次聚类算法进行基于基站定位数据的商圈分析
+Python电子商务实验-爬虫爬取拉勾网职业信息分析
+Python电子商务实验-水产养殖企业企业水质分析
+Python电子商务实验-销售收入预测
+Python电子商务实验-用户欺诈预测
+Python电子商务实验-用户投诉分析
+Python数学统计实验-财政收入影响因素分析及预测模型
+Python数学统计实验-分析美国对数据科学家专业技能需求（二）
+Python数学统计实验-分析美国对数据科学家专业技能需求（一）
+Python数学统计实验-估计
+Python数学统计实验-利用 Python 进行员工流失分析（四）
+Python数学统计实验-利用 Python 进行员工流失分析（三）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（下）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（上）
+Python数学统计实验-统计计算
+Python数学统计实验-新加坡空气污染原因分析（下）
+Python数学统计实验-新加坡空气污染原因分析（上）
+Python数学统计实验-研究统计学基础（三）
+Python数学统计实验-研究统计学基础（二）
+Python数学统计实验-研究统计学基础（一）
+Python统计学实战实验-回归分析预测房价 (下)
+Python统计学实战实验-回归分析预测房价 (上)
+R语言数学统计实战实验-房价预测：高阶回归技术应用
+R语言数学统计分析-时间序列（三）
+R语言数学统计分析-时间序列（二）
+R语言数学统计分析-时间序列（一）
+R语言数学统计实验-方差分析（二）
+R语言数学统计实验-方差分析（一）
+R语言数学统计实验-分类
+R语言数学统计实验-分类和聚类（二）
+R语言数学统计实验-分类和聚类(一）
+R语言数学统计实验-概率与分布
+R语言数学统计实验-高级数据管理
+R语言数学统计实验-功效分析
+R语言数学统计实验-广义线性模型（二）
+R语言数学统计实验-广义线性模型（一）
+R语言数学统计实验-回归（四）
+R语言数学统计实验-回归（三）
+R语言数学统计实验-回归（二）
+R语言数学统计实验-回归（一）
+R语言数学统计实验-基本统计分析（三）
+R语言数学统计实验-基本统计分析（二）
+R语言数学统计实验-基本统计分析（一）
+R语言数学统计实验-基本图形
+R语言数学统计实验-建模实战
+R语言数学统计实验-聚类分析
+R语言数学统计实验-时序数据分析
+R语言数学统计实验-数据的筛选与汇总
+R语言数学统计实验-数据平滑
+R语言数学统计实验-数据重构
+R语言数学统计实验-中级绘图（二）
+R语言数学统计实验-中级绘图（一）
+R语言数学统计实验-重抽样与自助法（二）
+R语言数学统计实验-重抽样与自助法（一）
+R语言数学统计实验-主成分分析和因子分析（二）
+R语言数学统计实验-主成分分析和因子分析（一）
+python可视化基础实验-pyechart模块
+python可视化-全球经济指标动态分析
+Jupyter_Notebook使用教程
+实验一百四十 R语言实战：区域经纬度聚类
+实验一百四十一 R语言实战：随机森林分类空气质量
+实验一百二十九 R语言算法：随机森林分类
+实验一百二十七 R语言基础：因子操作
+实验一百二十五 R语言基础：文件操作
+实验一百二十 Python算法：Apriori关联规则
+实验一百二十八 R语言算法：决策树分类
+实验一百二十二 Python实战：区域经纬度聚类
+实验一百二十六 R语言基础：数据帧
+实验一百二十三 Python实战：回归预测空气指数
+实验一百二十四 R语言基础：流程控制
+实验一百二十一 Python实战：随机森林分类空气质量
+实验一百三十 R语言算法：贝叶斯分类
+实验一百三十二 R语言算法：SVM分类
+实验一百三十六 R语言算法：Apriori关联规则实验
+实验一百三十四 R语言算法：DBSCAN聚类
+实验一百零八 Python统计上海2016年每月历史天气
+实验一百零三 Python基础：流程控制
+实验一百零四 Python基础：列表和元组
+实验一百一十 Python统计北京和上海2016年月均气温对比
+实验一百一十八 Python算法：DBSCAN聚类
+实验一百一十二 Python算法：决策树分类
+实验一百一十六 Python算法：支持向量机分类
+实验一百一十四 Python算法：朴素贝叶斯分类
+实验一百三十八 R语言实战：回归预测空气指数
+实验一百三十九 R语言实战：按月进行时间序列预测温度
+实验一百三十七 R语言算法：时间序列分析
+实验一百三十三 R语言算法：K-means聚类
+实验一百三十五 R语言算法：回归分析
+实验一百三十一 R语言算法：KNN分类
+实验一百三十九 Python统计上海2016年每月空气质量
+实验一百零六 Python基础：文件操作
+实验一百零七 Python统计全国各省城市数量分布
+实验一百零五 Python基础：字典
+实验一百一十九 Python算法：回归分析
+实验一百一十七 Python算法：K-means聚类
+实验一百一十三 Python算法：随机森林分类
+实验一百一十五 Python算法：K最近邻分类
+实验一百一十一 Python统计北京和上海2016年空气质量对比
+神经网络的原理与构建（一）：手工打造神经网络
+神经网络的原理与构建（二）：神经网络调优
+神经网络的原理与构建（三）：用自己的手写数字—测试神经网络
+实验python：分析Titanic生还率（一）
+实验python：分析Titanic生还率（二）
+实验python：分析Titanic生还率（三）
+实验R语言 简单地铁路线推荐
+实验R语言 批量抓取位置经纬度坐标
+Numpy实现LSTM进行字符级的文本预测
+Numpy实现RNN进行字符级的文本预测
+使用NumPy完成卷积神经网络CNN的搭建
+标注工具的安装与基础操作
+标框标注基础：车牌日常环境标框标注
+区域标注：遥感影像区域标注
+分类实验基础：水果分类标注
+属性标注：人像特征属性标注
+标框标注：车牌夜晚环境标框标注
+标框标注：不完整车牌标框标注
+分类标注：人脸分类标注
+细胞分类标注
+标框标注：人脸标框标注
+标框标注：行人标框标注
+标框标注：车辆标框标注
+标框标注综合实验：行人车辆混合标框标注
+标框标注：细胞标框标注
+多边形标注：车辆多边形标注
+多边形标注：道路标志多边形标注
+区域标注：道路区域标注
+附录F Linux基础：grep
+附录G Linux基础：cut
+附录H Linux进阶：sed、awk、grep、cut综合运用
+Python运维实践：（主机端口管理）
+Linux常用命令：解压缩
+Pandas使用教程（一）
+Pandas使用教程（二）
+Python网络爬虫实验：多进程采集
+NumPy使用手册
+Python网络爬虫实验：多进程 + 多线程采集
+Python网络爬虫实验：多线程采集.
+Python获取财经数据和可视化分析
+python基础实验-迭代器、生成器，装饰器
+Python量化策略风险指标
+R语言：线性回归
+R语言基础：函数
+Python基础实验：正则表达式
+python基础实验-数据结构
+python基础实验-文件处理.ipynb
+python基础实验-异常.ipynb
+python基础实验-运算符和表达式
+python基础实验-字符串
+Python金融量化_上市公司知多少
+python爬虫实验-爬取京东iphone8的评论
+Python爬虫之协程异步
+pyhton-Scipy教程（上）
+python基础实验−条件控制
+python数据挖掘-Statsmodel模块(1)
+python数据挖掘-Statsmodel模块(2)
+python数据挖掘-scikit-learn模块实例
+python数据挖掘-scikit-learn模块（上）
+python数据挖掘-scikit-learn模块（下）
+python数据挖掘-C4.5算法
+网络小说下载（一）
+网络小说下载（二）
+R语言基础：数组
+Python金融数据处理（一）
+Python金融数据处理（二）
+实验Python：实验股票分析入门
+银行用户满意度分析（上）
+银行用户满意度分析（下）
+数据清洗：数据分列
+数据清洗：缺失值清洗
+数据清洗：格式内容清洗
+数据清洗：Excel数据清洗常用函数（一）
+数据清洗：Excel数据清洗常用函数（二）
+数据清洗：RDBMS数据清洗准备工作
+数据清洗：逻辑错误清洗
+R语言基础：缺失值分析
+R语言基础：异常值分析
+R语言基础：数据结构
+R语言基础：tidyverse生态链
+R语言基础：apply家族函数与管道操作教程
+R语言基础：tidyr和dplyr应用（一）——数据重塑
+R语言基础：tidyr和dplyr应用（二）——数据转换
+R语言基础：tidyr和dplyr应用（三）——实战案例
+Python爬虫三大库之BeautifulSoup
+Python爬虫三大库之Lxml
+Python爬虫三大库之Requests
+Python爬虫实验-爬虫原理
+数据清洗：快速定位和快速填充
+数据清洗：多表数据横向汇总
+数据清洗：多表数据纵向汇总
+铁路螺栓标框标注
+python爬虫：7日天气预报
+R语言爬虫：批量网页图片下载
+Python数学统计实验-回归
+Python数学统计实验-时间序列预测（一）
+Python数学统计实验-时间序列预测（二）
+爱荷华州房价预测（一）
+爱荷华州房价预测（二）
+R语言综合实验：基于R语言实现云词图的绘制
+Python爬虫：爬取豆瓣图书Top250
+冠状病毒可视化实战
+基于公共基因组数据分析对COVID2的起源探索
+可视化实验
+python编程入门
+可视化实战
+咖啡数据分析
+AWS动手实验Key Pairs
+AWS动手实验EC2
+AWS动手实验Elastic IPs
+AWS动手实验IAM
+AWS动手实验ELB
+AWS动手实验Memcached
+AWS动手实验MySQL
+AWS动手实验S3
+AWS动手实验Security Group
+AWS动手实验VPC
+绘制小说词云
+篮球命中率可视化分析
+纽约出租车运营情况可视化分析（一）
+纽约出租车运营情况可视化分析（二）
+爬取豆瓣电影信息 JN版
+Spark-Scala+Python综合实战：最优风险资产组合(一)
+Python数据清洗
+Python电影数据简单分析
+全美婴儿姓名分析
+Python实现二叉树
+芳华词云图+LDA分析
+Titanic数据案例分析
+R语言数据清洗
+test
+
+实验二 HDFS实验：部署HDFS
+2.1 实验目的
+1． 理解HDFS存在的原因；
+
+2． 理解HDFS体系架构；
+
+3． 理解master/slave架构；
+
+4． 理解为何配置文件里只需指定主服务、无需指定从服务；
+
+5． 理解为何需要客户端节点；
+
+6． 学会逐一启动HDFS和统一启动HDFS；
+
+7． 学会在HDFS中上传文件。
+
+2.2 实验要求
+要求实验结束时，已构建出以下HDFS集群：
+
+1． master上部署主服务NameNode；
+
+2． Slave1、2上部署从服务DataNode；
+
+3． master上部署HDFS客户端。
+
+待集群搭建好后，还需在master上进行下述操作：
+
+1． 在HDFS里新建目录；
+
+2． 将master上某文件上传至HDFS里刚才新建的目录。
+
+2.3 实验原理
+2.3.1 分布式文件系统
+分布式文件系统（Distributed File System）是指文件系统管理的物理存储资源不一定直接连接在本地节点上，而是通过计算机网络与节点相连。该系统架构于网络之上，势必会引入网络编程的复杂性，因此分布式文件系统比普通磁盘文件系统更为复杂。
+
+2.3.2 HDFS
+HDFS（Hadoop Distributed File System）为大数据平台其它所有组件提供了基本的存储功能。它具有高容错、高可靠、可扩展、高吞吐率等特征，为大数据存储和处理提供了强大的底层存储架构。
+
+HDFS是一个主/从（master/slave）体系结构，从最终用户的角度来看，它就像传统的文件系统，可通过目录路径对文件执行CRUD操作。由于其分布式存储的性质，HDFS集群拥有一个NameNode和一些DataNodes，NameNode管理文件系统的元数据，DataNode存储实际的数据。
+
+HDFS开放文件系统的命名空间以便用户以文件形式存储数据，秉承“一次写入、多次读取”的原则。客户端通过NameNode和DataNodes的交互访问文件系统，联系NameNode以获取文件的元数据，而真正的文件I/O操作是直接和DataNode进行交互的。
+
+2.3.3 HDFS基本命令
+HDFS基本命令格式如下：
+
+hadoop fs -cmd args
+其中，cmd为具体的操作，args为参数。
+
+部分HDFS命令示例如下：
+
+hadoop fs -mkdir /user/trunk          #建立目录/user/trunk
+hadoop fs -ls /user                  #查看/user目录下的目录和文件
+hadoop fs -lsr /user                 #递归查看/user目录下的目录和文件
+hadoop fs -put test.txt /user/trunk      #上传test.txt文件至/user/trunk
+hadoop fs -get /user/trunk/test.txt      #获取/user/trunk/test.txt文件
+hadoop fs -cat /user/trunk/test.txt      #查看/user/trunk/test.txt文件内容
+hadoop fs -tail /user/trunk/test.txt      #查看/user/trunk/test.txt文件的最后1000行
+hadoop fs -rm /user/trunk/test.txt       #删除/user/trunk/test.txt文件
+hadoop fs -help ls                   #查看ls命令的帮助文档
+2.3.4 HDFS适用场景
+HDFS 提供高吞吐量应用程序数据访问功能，适合带有大型数据集的应用程序，以下是一些常用的应用场景：
+
+数据密集型并行计算：数据量极大，但是计算相对简单的并行处理，如大规模Web信息搜索；
+
+计算密集型并行计算：数据量相对不是很大，但是计算较为复杂的并行计算，如3D建模与渲染、气象预报和科学计算；
+
+数据密集与计算密集混合型的并行计算，如3D电影的渲染。
+
+HDFS在使用过程中有以下限制：
+
+HDFS不适合大量小文件的存储，因NameNode将文件系统的元数据存放在内存中，因此存储的文件数目受限于NameNode的内存大小；
+
+HDFS适用于高吞吐量，而不适合低时间延迟的访问；
+
+流式读取的方式，不适合多用户写入一个文件（一个文件同时只能被一个客户端写），以及任意位置写入（不支持随机写）；
+
+HDFS更加适合写入一次，读取多次的应用场景。
+
+2.4 实验步骤
+部署HDFS主要步骤如下：
+
+1． 配置Hadoop的安装环境；
+
+2． 配置Hadoop的配置文件；
+
+3． 启动HDFS服务；
+
+4． 验证HDFS服务可用。
+
+2.4.1 在master服务器上确定存在hadoop安装目录
+[root@master ~]# ls  /usr/cstor/hadoop
+显示结果如图2-1所示：
+
+
+图2-1 确认hadoop安装目录
+2.4.2 确认集群服务器之间可SSH免密登录
+使用ssh工具登录到每一台服务器，执行命令ssh 主机名，确认每台集群服务器均可SSH免密登录。若无法SSH免密登录，请参照实验一的1.4.4节进行配置。
+
+2.4.3 修改HDFS配置文件
+(1)设置JDK安装目录
+
+编辑文件“/usr/cstor/hadoop/etc/hadoop/hadoop-env.sh”，找到如下一行：
+
+export JAVA_HOME=${JAVA_HOME}
+将这行内容修改为：
+
+export JAVA_HOME=/usr/local/jdk1.7.0_79/
+这里的“/usr/local/jdk1.7.0_79/”就是JDK安装位置，如果不同，请根据实际情况更改。
+
+(2)指定HDFS主节点
+
+编辑文件“/usr/cstor/hadoop/etc/hadoop/core-site.xml”，将如下内容嵌入此文件里最后两行的<configuration></configuration>标签之间：
+
+<property>
+  <name>hadoop.tmp.dir</name>
+  <value>/usr/cstor/hadoop/cloud</value>
+</property>
+<property>
+  <name>fs.defaultFS</name>
+  <value>hdfs://master:8020</value>
+</property>
+(3)拷贝集群配置至其它服务器
+
+在master机上执行下列命令，将配置好的hadoop拷贝至slaveX。
+
+[root@master ~]# cat  ~/data/2/machines
+slave1
+salve2
+[root@master ~]# for  x  in  `cat  ~/data/2/machines` ; do  echo  $x ; scp  -r  /usr/cstor/hadoop/etc  $x:/usr/cstor/hadoop  ; done;
+2.4.4 启动HDFS
+在master服务器上格式化主节点：
+
+[root@master ~]# hdfs  namenode  -format
+配置slaves文件，将localhost修改为slave1~2：
+
+[root@master ~]# vi /usr/cstor/hadoop/etc/hadoop/slaves
+slave1
+slave2
+统一启动HDFS：
+
+[root@master ~]#cd /usr/cstor/hadoop
+[root@master hadoop]# sbin/start-dfs.sh 
+2.4.5 通过查看进程的方式验证HDFS启动成功
+分别在master、slave1~2三台机器上执行如下命令，查看HDFS服务是否已启动。
+
+[root@master sbin]#  jps                                         #jps查看java进程
+若启动成功，在master上会看到类似的如下信息：
+
+6208 NameNode
+6862 Jps
+6462 SecondaryNameNode   
+而在slave1、slave2上会看到类似的如下信息：
+
+6208 DataNode
+6862 Jps
+2.4.6 使用master上传文件
+从master服务器向HDFS上传文件。
+
+[root@master ~]# hadoop fs -put  ~/data/2/machines / 
+执行命令：hadoop fs -ls /，查看文件是否上传成功。
+
+如图2-2所示：
+
+
+图2-2 查看文件是否上传成功

@@ -1,0 +1,660 @@
+1807004528 01
+ 平台监控
+ 探索环境
+ 我的课程
+ 考试系统
+ 资料工具
+ 学习资料
+ 教材列表
+ 相关下载
+ 我的通知
+ 关于我们
+在线实验手册资料工具/在线实验手册
+实验一 基本操作实验
+HDFS实验：部署HDFS 实验任务书
+HDFS实验：读写HDFS文件 实验任务书
+YARN实验：部署YARN集群 实验任务书
+MapReduce实验：单词计数 实验任务书
+MapReduce实验：二次排序 实验任务书
+MapReduce实验：计数器 实验任务书
+实验八 MapReduce实验：Join操作
+实验九 MapReduce实验：分布式缓存
+实验十 Hive实验：部署Hive
+实验十一 Hive实验：新建Hive表
+实验十二 Hive实验：Hive分区
+实验十三 Spark实验：部署Spark集群
+实验十四 Spark实验：SparkWordCount
+实验十五 Spark实验：RDD综合实验
+实验十六 Spark实验：Spark综例
+实验十七 Spark实验：Spark SQL
+实验十八 Spark实验：Spark Streaming
+实验十九 Spark实验：GraphX
+实验二十 Zookeeper实验：部署ZooKeeper
+实验二十一 Zookeeper实验：进程协作
+实验二十二 HBase实验：部署HBase
+实验二十三 HBase实验：新建HBase表
+实验二十四 Storm实验：部署Storm
+实验二十五 Storm实验：实时WordCountTopology
+实验二十六 Flume实验：文件数据Flume至HDFS
+实验二十七 Kafka实验：订阅推送示例
+实验二十八 Pig实验：Pig版WordCount
+实验二十九 Redis实验：Redis部署与简单使用
+实验三十 Redis实验：读写Redis
+实验三十一 MongoDB实验：读写MongoDB
+实验三十二 LevelDB实验：读写LevelDB
+实验三十三 Mahout实验：K-Means
+实验三十四 使用Spark实现K-Means
+实验三十五 使用Spark实现SVM
+实验三十六 使用Spark实现FP-Growth
+实验三十七 综合实战：车牌识别
+实验三十八 综合实战：搜索引擎
+实验三十九 综合实战：精确营销
+实验四十 综合实战：环境大数据
+实验四十一 综合实战：物联网
+实验四十二 综合实战：贷款风险评估
+实验四十三 Python基础：流程控制
+实验四十四 Python基础：列表和元组
+实验四十五 Python基础：字典
+实验四十六 Python基础：文件操作
+实验四十七 Python统计全国各省城市数量分布
+实验四十八 Python统计上海2016年每月历史天气
+实验四十九 Python统计上海2016年每月空气质量
+实验五十 Python统计北京和上海2016年月均气温对比
+实验五十一 Python统计北京和上海2016年空气质量对比
+实验五十二 Python算法：决策树分类
+实验五十三 Python算法：随机森林分类
+实验五十四 Python算法：朴素贝叶斯分类
+实验五十五 Python算法：K最近邻分类
+实验五十六 Python算法：支持向量机分类
+实验五十七 Python算法：K-means聚类
+实验五十八 Python算法：DBSCAN聚类
+实验五十九 Python算法：回归分析
+实验六十 Python算法：Apriori关联规则
+实验六十一 Python实战：随机森林分类空气质量
+实验六十二 Python实战：区域经纬度聚类
+实验六十三 Python实战：回归预测空气指数
+实验六十四 R语言基础：流程控制
+实验六十五 R语言基础：文件操作
+实验六十六 R语言基础：数据帧
+实验六十七 R语言基础：因子操作
+实验六十八 R语言算法：决策树分类
+实验六十九 R语言算法：随机森林分类
+实验七十 R语言算法：贝叶斯分类
+实验七十一 R语言算法：KNN分类
+实验七十二 R语言算法：SVM分类
+实验七十三 R语言算法：K-means聚类
+实验七十四 R语言算法：DBSCAN聚类
+实验七十五 R语言算法：回归分析
+实验七十六 R语言算法：Apriori关联规则实验
+实验七十七 R语言算法：时间序列分析
+实验七十八 R语言实战：回归预测空气指数
+实验七十九 R语言实战：按月进行时间序列预测温度
+实验八十 R语言实战：区域经纬度聚类
+实验八十一 R语言实战：随机森林分类空气质量
+附录A Linux基础：常用基本命令
+附录B Linux基础：文件操作
+附录C Linux基础：sed
+附录D Linux基础：awk
+爬取豆瓣电影信息
+爬取豆瓣图书Top250
+爬取双色球开奖信息
+网络小说下载（一）
+网络小说下载（二）
+正则表达式
+Python线性回归实验
+Spark综合实战：环境数据读写
+Spark综合实战：词频统计
+Spark综合实战：中文分词
+Spark综合实战：特征提取
+Spark综合实战：GM11预测环境数据
+Spark综合实战：日志分析
+Spark综合实战：分类算法学习
+Spark综合实战：聚类算法学习
+Spark综合实战：ALS算法推荐
+本地配置maven-scala
+R语言实战：简单地铁路线推荐
+R语言实战：批量抓取位置经纬度坐标
+MR实现倒排索引
+Spark实现倒排索引
+实验R语言：股票数据抓取与分析 （一）
+实验R语言：股票数据抓取与分析（二）
+附录E Linux基础：文本编辑器vi
+实验R语言：分析新浪股票数据
+实验R语言：多元线性回归研究我国经济增长
+房价数据分析
+实验R语言：时间序列分析-ARIMA模型（一）
+实验R语言：时间序列分析-指数平滑模型（二）
+spark垃圾邮件分类
+夏普比率与最大回撤和最大回撤时间
+最优风险资产组合(一)
+最优风险资产组合(二)
+实验R语言：金融风险管理：VaR 和 ES
+实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+实验R语言：金融风险管理：分位数回归法计算 VaR
+实验R语言：对英国房屋价格建模并预测
+实验R语言：航空燃油的交叉对冲
+预测股票走势
+Sqoop1+Phoenix迁移操作京东手机数据
+实验R语言：分析股票指数的GARCH效应
+基于CAPM模型的预期收益率与实际收益率
+Spark：用户App下载关联规则计算
+Shell基础：（流程控制）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+Shell运维实践：（服务器安全）
+航空公司客户价值分析
+Spark：预测谋杀率
+漏电窃电用户判断
+Python：中医病理分析
+Python数据挖掘-电商产品评论数据情感分析
+Python实战：实时中美货币转换
+Linux基础：（正则表达式）
+Shell运维实践：（用户管理）
+java正则表达式
+scala正则表达式
+kettle介绍及从文本文件抽取数据到数据库
+CSV文件数据抽取到数据库
+excel文件导入数据库
+Json文件和xml文件的抽取
+MySQL数据迁移MongoDB
+住房数据清洗
+银华基金数据清洗实例
+客户签到数据的清洗转换
+基于触发器的数据增删改的增量更新
+数据脱敏实例
+Shell运维实践：（主机信息检测）
+Spark综合实战：游戏数据分析
+金1：实验R语言：分析新浪股票数据
+金2：实验R语言：股票数据抓取与分析（一）
+金3：实验R语言：股票数据抓取与分析（二）
+金4：实验R语言：时间序列分析-ARIMA模型（一）
+金5：实验R语言：时间序列分析-指数平滑模型（二）
+金6：实验R语言：对英国房屋价格建模并预测
+金7：实验R语言：航空燃油的交叉对冲
+金8：实验R语言：多元线性回归研究我国经济增长
+金9：实验R语言：金融风险管理：VaR 和 ES
+金10：实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+金11：实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+金12：实验R语言：金融风险管理：分位数回归法计算 VaR
+金13：实验R语言：分析股票指数的GARCH效应
+金14：实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+金15：实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+金16：实验Python：夏普比率与最大回撤和最大回撤时间
+金17：实验Python：最优投资组合（上）
+金18：实验Python：最优投资组合（下）
+金19：实验Python：预测股票走势
+金20：实验Python：基于CAPM模型的预期收益率与实际收益率
+金21：实验Python：航空公司客户价值分析
+金22：实验Python：漏窃电用户行为分析与事件识别（上）
+金23：实验Python：漏窃电用户行为分析与事件识别（下）
+金24：实验Python：电商产品评论数据情感分析
+金25：实验Python：中美实时货币转换
+金26：实验Python：利用层次聚类算法进行基于基站定位数据的商圈分析
+金27：实验Python：应用系统负载分析与磁盘容量预测（上）
+金28：实验Python：应用系统负载分析与磁盘容量预测（下）
+R语言电子商务实验-航空公司客户价值分析
+R语言电子商务实验-基于基站定位数据的商圈分析
+R语言电子商务实验-数据分析实战1：用R做柱状图分析销售额减少
+R语言电子商务实验-数据分析实战2：交叉列表统计何种顾客会离开
+R语言电子商务实验-数据分析实战3：AB测试分析哪种广告的效果更好
+R语言电子商务实验-数据分析实战4：多元回归分析如何通过各种广告的组合获得更多的用户
+R语言电子商务实验-数据分析实战5：逻辑回归分析根据过去的行为能否预测当下
+R语言电子商务实验-数据分析实战6：利用k-means聚类选择目标用户群
+R语言电子商务实验-数据分析实战7：利用决策树分析哪些用户是长期用户
+R语言电子商务实验-员工离职预测实战(一)
+R语言电子商务实验-员工离职预测实战(二)
+Python电子商务实验-电商产品评论数据情感分析
+Python电子商务实验-电商打折套路解析（上）
+Python电子商务实验-电商打折套路解析（下）
+Python电子商务实验-分析eBay汽车销售数据
+Python电子商务实验-分析客户流失(二)
+Python电子商务实验-分析客户流失(一)
+Python电子商务实验-航空公司客户价值分析
+Python电子商务实验-利用Python进行市场购物篮分析
+Python电子商务实验-利用Python做淘宝商品的数据挖掘分析
+Python电子商务实验-利用层次聚类算法进行基于基站定位数据的商圈分析
+Python电子商务实验-爬虫爬取拉勾网职业信息分析
+Python电子商务实验-水产养殖企业企业水质分析
+Python电子商务实验-销售收入预测
+Python电子商务实验-用户欺诈预测
+Python电子商务实验-用户投诉分析
+Python数学统计实验-财政收入影响因素分析及预测模型
+Python数学统计实验-分析美国对数据科学家专业技能需求（二）
+Python数学统计实验-分析美国对数据科学家专业技能需求（一）
+Python数学统计实验-估计
+Python数学统计实验-利用 Python 进行员工流失分析（四）
+Python数学统计实验-利用 Python 进行员工流失分析（三）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（下）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（上）
+Python数学统计实验-统计计算
+Python数学统计实验-新加坡空气污染原因分析（下）
+Python数学统计实验-新加坡空气污染原因分析（上）
+Python数学统计实验-研究统计学基础（三）
+Python数学统计实验-研究统计学基础（二）
+Python数学统计实验-研究统计学基础（一）
+Python统计学实战实验-回归分析预测房价 (下)
+Python统计学实战实验-回归分析预测房价 (上)
+R语言数学统计实战实验-房价预测：高阶回归技术应用
+R语言数学统计分析-时间序列（三）
+R语言数学统计分析-时间序列（二）
+R语言数学统计分析-时间序列（一）
+R语言数学统计实验-方差分析（二）
+R语言数学统计实验-方差分析（一）
+R语言数学统计实验-分类
+R语言数学统计实验-分类和聚类（二）
+R语言数学统计实验-分类和聚类(一）
+R语言数学统计实验-概率与分布
+R语言数学统计实验-高级数据管理
+R语言数学统计实验-功效分析
+R语言数学统计实验-广义线性模型（二）
+R语言数学统计实验-广义线性模型（一）
+R语言数学统计实验-回归（四）
+R语言数学统计实验-回归（三）
+R语言数学统计实验-回归（二）
+R语言数学统计实验-回归（一）
+R语言数学统计实验-基本统计分析（三）
+R语言数学统计实验-基本统计分析（二）
+R语言数学统计实验-基本统计分析（一）
+R语言数学统计实验-基本图形
+R语言数学统计实验-建模实战
+R语言数学统计实验-聚类分析
+R语言数学统计实验-时序数据分析
+R语言数学统计实验-数据的筛选与汇总
+R语言数学统计实验-数据平滑
+R语言数学统计实验-数据重构
+R语言数学统计实验-中级绘图（二）
+R语言数学统计实验-中级绘图（一）
+R语言数学统计实验-重抽样与自助法（二）
+R语言数学统计实验-重抽样与自助法（一）
+R语言数学统计实验-主成分分析和因子分析（二）
+R语言数学统计实验-主成分分析和因子分析（一）
+python可视化基础实验-pyechart模块
+python可视化-全球经济指标动态分析
+Jupyter_Notebook使用教程
+实验一百四十 R语言实战：区域经纬度聚类
+实验一百四十一 R语言实战：随机森林分类空气质量
+实验一百二十九 R语言算法：随机森林分类
+实验一百二十七 R语言基础：因子操作
+实验一百二十五 R语言基础：文件操作
+实验一百二十 Python算法：Apriori关联规则
+实验一百二十八 R语言算法：决策树分类
+实验一百二十二 Python实战：区域经纬度聚类
+实验一百二十六 R语言基础：数据帧
+实验一百二十三 Python实战：回归预测空气指数
+实验一百二十四 R语言基础：流程控制
+实验一百二十一 Python实战：随机森林分类空气质量
+实验一百三十 R语言算法：贝叶斯分类
+实验一百三十二 R语言算法：SVM分类
+实验一百三十六 R语言算法：Apriori关联规则实验
+实验一百三十四 R语言算法：DBSCAN聚类
+实验一百零八 Python统计上海2016年每月历史天气
+实验一百零三 Python基础：流程控制
+实验一百零四 Python基础：列表和元组
+实验一百一十 Python统计北京和上海2016年月均气温对比
+实验一百一十八 Python算法：DBSCAN聚类
+实验一百一十二 Python算法：决策树分类
+实验一百一十六 Python算法：支持向量机分类
+实验一百一十四 Python算法：朴素贝叶斯分类
+实验一百三十八 R语言实战：回归预测空气指数
+实验一百三十九 R语言实战：按月进行时间序列预测温度
+实验一百三十七 R语言算法：时间序列分析
+实验一百三十三 R语言算法：K-means聚类
+实验一百三十五 R语言算法：回归分析
+实验一百三十一 R语言算法：KNN分类
+实验一百三十九 Python统计上海2016年每月空气质量
+实验一百零六 Python基础：文件操作
+实验一百零七 Python统计全国各省城市数量分布
+实验一百零五 Python基础：字典
+实验一百一十九 Python算法：回归分析
+实验一百一十七 Python算法：K-means聚类
+实验一百一十三 Python算法：随机森林分类
+实验一百一十五 Python算法：K最近邻分类
+实验一百一十一 Python统计北京和上海2016年空气质量对比
+神经网络的原理与构建（一）：手工打造神经网络
+神经网络的原理与构建（二）：神经网络调优
+神经网络的原理与构建（三）：用自己的手写数字—测试神经网络
+实验python：分析Titanic生还率（一）
+实验python：分析Titanic生还率（二）
+实验python：分析Titanic生还率（三）
+实验R语言 简单地铁路线推荐
+实验R语言 批量抓取位置经纬度坐标
+Numpy实现LSTM进行字符级的文本预测
+Numpy实现RNN进行字符级的文本预测
+使用NumPy完成卷积神经网络CNN的搭建
+标注工具的安装与基础操作
+标框标注基础：车牌日常环境标框标注
+区域标注：遥感影像区域标注
+分类实验基础：水果分类标注
+属性标注：人像特征属性标注
+标框标注：车牌夜晚环境标框标注
+标框标注：不完整车牌标框标注
+分类标注：人脸分类标注
+细胞分类标注
+标框标注：人脸标框标注
+标框标注：行人标框标注
+标框标注：车辆标框标注
+标框标注综合实验：行人车辆混合标框标注
+标框标注：细胞标框标注
+多边形标注：车辆多边形标注
+多边形标注：道路标志多边形标注
+区域标注：道路区域标注
+附录F Linux基础：grep
+附录G Linux基础：cut
+附录H Linux进阶：sed、awk、grep、cut综合运用
+Python运维实践：（主机端口管理）
+Linux常用命令：解压缩
+Pandas使用教程（一）
+Pandas使用教程（二）
+Python网络爬虫实验：多进程采集
+NumPy使用手册
+Python网络爬虫实验：多进程 + 多线程采集
+Python网络爬虫实验：多线程采集.
+Python获取财经数据和可视化分析
+python基础实验-迭代器、生成器，装饰器
+Python量化策略风险指标
+R语言：线性回归
+R语言基础：函数
+Python基础实验：正则表达式
+python基础实验-数据结构
+python基础实验-文件处理.ipynb
+python基础实验-异常.ipynb
+python基础实验-运算符和表达式
+python基础实验-字符串
+Python金融量化_上市公司知多少
+python爬虫实验-爬取京东iphone8的评论
+Python爬虫之协程异步
+pyhton-Scipy教程（上）
+python基础实验−条件控制
+python数据挖掘-Statsmodel模块(1)
+python数据挖掘-Statsmodel模块(2)
+python数据挖掘-scikit-learn模块实例
+python数据挖掘-scikit-learn模块（上）
+python数据挖掘-scikit-learn模块（下）
+python数据挖掘-C4.5算法
+网络小说下载（一）
+网络小说下载（二）
+R语言基础：数组
+Python金融数据处理（一）
+Python金融数据处理（二）
+实验Python：实验股票分析入门
+银行用户满意度分析（上）
+银行用户满意度分析（下）
+数据清洗：数据分列
+数据清洗：缺失值清洗
+数据清洗：格式内容清洗
+数据清洗：Excel数据清洗常用函数（一）
+数据清洗：Excel数据清洗常用函数（二）
+数据清洗：RDBMS数据清洗准备工作
+数据清洗：逻辑错误清洗
+R语言基础：缺失值分析
+R语言基础：异常值分析
+R语言基础：数据结构
+R语言基础：tidyverse生态链
+R语言基础：apply家族函数与管道操作教程
+R语言基础：tidyr和dplyr应用（一）——数据重塑
+R语言基础：tidyr和dplyr应用（二）——数据转换
+R语言基础：tidyr和dplyr应用（三）——实战案例
+Python爬虫三大库之BeautifulSoup
+Python爬虫三大库之Lxml
+Python爬虫三大库之Requests
+Python爬虫实验-爬虫原理
+数据清洗：快速定位和快速填充
+数据清洗：多表数据横向汇总
+数据清洗：多表数据纵向汇总
+铁路螺栓标框标注
+python爬虫：7日天气预报
+R语言爬虫：批量网页图片下载
+Python数学统计实验-回归
+Python数学统计实验-时间序列预测（一）
+Python数学统计实验-时间序列预测（二）
+爱荷华州房价预测（一）
+爱荷华州房价预测（二）
+R语言综合实验：基于R语言实现云词图的绘制
+Python爬虫：爬取豆瓣图书Top250
+冠状病毒可视化实战
+基于公共基因组数据分析对COVID2的起源探索
+可视化实验
+python编程入门
+可视化实战
+咖啡数据分析
+AWS动手实验Key Pairs
+AWS动手实验EC2
+AWS动手实验Elastic IPs
+AWS动手实验IAM
+AWS动手实验ELB
+AWS动手实验Memcached
+AWS动手实验MySQL
+AWS动手实验S3
+AWS动手实验Security Group
+AWS动手实验VPC
+绘制小说词云
+篮球命中率可视化分析
+纽约出租车运营情况可视化分析（一）
+纽约出租车运营情况可视化分析（二）
+爬取豆瓣电影信息 JN版
+Spark-Scala+Python综合实战：最优风险资产组合(一)
+Python数据清洗
+Python电影数据简单分析
+全美婴儿姓名分析
+Python实现二叉树
+芳华词云图+LDA分析
+Titanic数据案例分析
+R语言数据清洗
+test
+
+实验六 MapReduce实验：二次排序
+6.1 实验目的
+基于MapReduce思想，编写SecondarySort程序。
+
+6.2 实验要求
+要能理解MapReduce编程思想，会编写MapReduce版本二次排序程序，然后将其执行并分析执行过程。
+
+6.3 实验原理
+MR默认会对键进行排序，然而有的时候我们也有对值进行排序的需求。满足这种需求一是可以在reduce阶段排序收集过来的values，但是，如果有数量巨大的values可能就会导致内存溢出等问题，这就是二次排序应用的场景——将对值的排序也安排到MR计算过程之中，而不是单独来做。
+
+二次排序就是首先按照第一字段排序，然后再对第一字段相同的行按照第二字段排序，注意不能破坏第一次排序的结果。
+
+6.4 实验步骤
+6.4.1 编写程序
+程序主要难点在于排序和聚合。
+
+对于排序我们需要定义一个IntPair类用于数据的存储，并在IntPair类内部自定义Comparator类以实现第一字段和第二字段的比较。
+
+对于聚合我们需要定义一个FirstPartitioner类，在FirstPartitioner类内部指定聚合规则为第一字段。
+
+此外，我们还需要开启MapReduce框架自定义Partitioner 功能和GroupingComparator功能。
+
+IntPair 类：
+
+package mr;
+
+import java.io.DataInput;
+import java.io.DataOutput;
+import java.io.IOException;
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.WritableComparable;
+
+public class IntPair implements WritableComparable {
+    private IntWritable first;
+    private IntWritable second;
+    public void set(IntWritable first, IntWritable second) {
+        this.first = first;
+        this.second = second;
+    }
+    //注意：需要添加无参的构造方法，否则反射时会报错。
+    public IntPair() {
+        set(new IntWritable(), new IntWritable());
+    }
+    public IntPair(int first, int second) {
+        set(new IntWritable(first), new IntWritable(second));
+    }
+    public IntPair(IntWritable first, IntWritable second) {
+        set(first, second);
+    }
+    public IntWritable getFirst() {
+        return first;
+    }
+    public void setFirst(IntWritable first) {
+        this.first = first;
+    }
+    public IntWritable getSecond() {
+        return second;
+    }
+    public void setSecond(IntWritable second) {
+        this.second = second;
+    }
+    public void write(DataOutput out) throws IOException {
+        first.write(out);
+        second.write(out);
+    }
+    public void readFields(DataInput in) throws IOException {
+        first.readFields(in);
+        second.readFields(in);
+    }
+    public int hashCode() {
+        return first.hashCode() * 163 + second.hashCode();
+    }
+    public boolean equals(Object o) {
+        if (o instanceof IntPair) {
+            IntPair tp = (IntPair) o;
+            return first.equals(tp.first) && second.equals(tp.second);
+        }
+        return false;
+    }
+    public String toString() {
+        return first + "\t" + second;
+    }
+    public int compareTo(Object o) {
+        IntPair tp=(IntPair) o;
+        int cmp = first.compareTo(tp.first);
+        if (cmp != 0) {
+            return cmp;
+        }
+        return second.compareTo(tp.second);
+    }
+}
+完整代码：
+
+package mr;
+
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.NullWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.io.WritableComparable;
+import org.apache.hadoop.io.WritableComparator;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.Partitioner;
+import org.apache.hadoop.mapreduce.Reducer;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+
+public class SecondarySort {
+    static class TheMapper extends Mapper<LongWritable, Text, IntPair, NullWritable> {
+        @Override
+        protected void map(LongWritable key, Text value, Context context)
+                throws IOException, InterruptedException {
+            String[] fields = value.toString().split("\t");
+            int field1 = Integer.parseInt(fields[0]);
+            int field2 = Integer.parseInt(fields[1]);
+            context.write(new IntPair(field1,field2), NullWritable.get());
+        }
+    }
+    static class TheReducer extends Reducer<IntPair, NullWritable,IntPair, NullWritable> {
+        //private static final Text SEPARATOR = new Text("------------------------------------------------");
+        @Override
+        protected void reduce(IntPair key, Iterable<NullWritable> values, Context context)
+                throws IOException, InterruptedException {
+            context.write(key, NullWritable.get());
+        }
+    }
+    public static class FirstPartitioner extends Partitioner<IntPair, NullWritable> {
+        public int getPartition(IntPair key, NullWritable value,
+                int numPartitions) {
+            return Math.abs(key.getFirst().get()) % numPartitions;
+        }
+    }
+    //如果不添加这个类，默认第一列和第二列都是升序排序的。
+//这个类的作用是使第一列升序排序，第二列降序排序
+    public static class KeyComparator extends WritableComparator {
+        //无参构造器必须加上，否则报错。
+        protected KeyComparator() {
+            super(IntPair.class, true);
+        }
+        public int compare(WritableComparable a, WritableComparable b) {
+            IntPair ip1 = (IntPair) a;
+            IntPair ip2 = (IntPair) b;
+            //第一列按升序排序
+            int cmp = ip1.getFirst().compareTo(ip2.getFirst());
+            if (cmp != 0) {
+                return cmp;
+            }
+            //在第一列相等的情况下，第二列按倒序排序
+            return -ip1.getSecond().compareTo(ip2.getSecond());
+        }
+    }
+    //入口程序
+    public static void main(String[] args) throws Exception {
+        Configuration conf = new Configuration();
+        Job job = Job.getInstance(conf);
+        job.setJarByClass(SecondarySort.class);
+        //设置Mapper的相关属性
+        job.setMapperClass(TheMapper.class);
+        //当Mapper中的输出的key和value的类型和Reduce输出
+//的key和value的类型相同时，以下两句可以省略。
+        //job.setMapOutputKeyClass(IntPair.class);
+        //job.setMapOutputValueClass(NullWritable.class);
+        FileInputFormat.setInputPaths(job, new Path(args[0]));
+        //设置分区的相关属性
+        job.setPartitionerClass(FirstPartitioner.class);
+        //在map中对key进行排序
+        job.setSortComparatorClass(KeyComparator.class);
+        //job.setGroupingComparatorClass(GroupComparator.class);
+        //设置Reducer的相关属性
+        job.setReducerClass(TheReducer.class);
+        job.setOutputKeyClass(IntPair.class);
+        job.setOutputValueClass(NullWritable.class);
+        FileOutputFormat.setOutputPath(job, new Path(args[1]));
+        //设置Reducer数量
+        int reduceNum = 1;
+        if(args.length >= 3 && args[2] != null){
+            reduceNum = Integer.parseInt(args[2]);
+        }
+        job.setNumReduceTasks(reduceNum);
+        job.waitForCompletion(true);
+    }
+}
+6.4.2 打包提交
+使用Eclipse开发工具将该代码打包，选择主类为mr.Secondary。如果没有指定主类，那么在执行时就要指定须执行的类。假定打包后的文件名为Secondary.jar，主类SecondarySort位于包mr下，则可使用如下命令向Hadoop集群提交本应用。
+
+[root@master hadoop]# bin/hadoop jar SecondarySort.jar mr.Secondary /user/mapreduce/secsort/in/secsortdata.txt  /user/mapreduce/secsort/out  1
+其中“hadoop”为命令，“jar”为命令参数，后面紧跟打的包，/user/mapreduce/secsort/in/secsortdata.txt”为输入文件在HDFS中的位置，如果HDFS中没有这个文件，则自己自行上传。“/user/mapreduce/secsort/out/”为输出文件在HDFS中的位置，“1”为Reduce个数。
+
+6.5 实验结果
+6.5.1 输入数据
+输入数据如下：secsortdata.txt ('\t'分割)（数据放在/root/data/6目录下）：
+
+7    444
+3    9999
+7    333
+4    22
+3    7777
+7    555
+3    6666
+6    0
+3    8888
+4    11
+6.5.2 执行结果
+在master上执行对hdfs上的文件/user/mapreduce/secsort/out/part-r-00000内容查看的操作
+
+[root@master hadoop]# bin/hadoop fs -cat  /user/mapreduce/secsort/out/p*
+如图6-1所示：
+
+
+图6-1

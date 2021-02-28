@@ -1,0 +1,602 @@
+1807004528 01
+ 平台监控
+ 探索环境
+ 我的课程
+ 考试系统
+ 资料工具
+ 学习资料
+ 教材列表
+ 相关下载
+ 我的通知
+ 关于我们
+在线实验手册资料工具/在线实验手册
+实验一 基本操作实验
+HDFS实验：部署HDFS 实验任务书
+HDFS实验：读写HDFS文件 实验任务书
+YARN实验：部署YARN集群 实验任务书
+MapReduce实验：单词计数 实验任务书
+MapReduce实验：二次排序 实验任务书
+MapReduce实验：计数器 实验任务书
+实验八 MapReduce实验：Join操作
+实验九 MapReduce实验：分布式缓存
+实验十 Hive实验：部署Hive
+实验十一 Hive实验：新建Hive表
+实验十二 Hive实验：Hive分区
+实验十三 Spark实验：部署Spark集群
+实验十四 Spark实验：SparkWordCount
+实验十五 Spark实验：RDD综合实验
+实验十六 Spark实验：Spark综例
+实验十七 Spark实验：Spark SQL
+实验十八 Spark实验：Spark Streaming
+实验十九 Spark实验：GraphX
+实验二十 Zookeeper实验：部署ZooKeeper
+实验二十一 Zookeeper实验：进程协作
+实验二十二 HBase实验：部署HBase
+实验二十三 HBase实验：新建HBase表
+实验二十四 Storm实验：部署Storm
+实验二十五 Storm实验：实时WordCountTopology
+实验二十六 Flume实验：文件数据Flume至HDFS
+实验二十七 Kafka实验：订阅推送示例
+实验二十八 Pig实验：Pig版WordCount
+实验二十九 Redis实验：Redis部署与简单使用
+实验三十 Redis实验：读写Redis
+实验三十一 MongoDB实验：读写MongoDB
+实验三十二 LevelDB实验：读写LevelDB
+实验三十三 Mahout实验：K-Means
+实验三十四 使用Spark实现K-Means
+实验三十五 使用Spark实现SVM
+实验三十六 使用Spark实现FP-Growth
+实验三十七 综合实战：车牌识别
+实验三十八 综合实战：搜索引擎
+实验三十九 综合实战：精确营销
+实验四十 综合实战：环境大数据
+实验四十一 综合实战：物联网
+实验四十二 综合实战：贷款风险评估
+实验四十三 Python基础：流程控制
+实验四十四 Python基础：列表和元组
+实验四十五 Python基础：字典
+实验四十六 Python基础：文件操作
+实验四十七 Python统计全国各省城市数量分布
+实验四十八 Python统计上海2016年每月历史天气
+实验四十九 Python统计上海2016年每月空气质量
+实验五十 Python统计北京和上海2016年月均气温对比
+实验五十一 Python统计北京和上海2016年空气质量对比
+实验五十二 Python算法：决策树分类
+实验五十三 Python算法：随机森林分类
+实验五十四 Python算法：朴素贝叶斯分类
+实验五十五 Python算法：K最近邻分类
+实验五十六 Python算法：支持向量机分类
+实验五十七 Python算法：K-means聚类
+实验五十八 Python算法：DBSCAN聚类
+实验五十九 Python算法：回归分析
+实验六十 Python算法：Apriori关联规则
+实验六十一 Python实战：随机森林分类空气质量
+实验六十二 Python实战：区域经纬度聚类
+实验六十三 Python实战：回归预测空气指数
+实验六十四 R语言基础：流程控制
+实验六十五 R语言基础：文件操作
+实验六十六 R语言基础：数据帧
+实验六十七 R语言基础：因子操作
+实验六十八 R语言算法：决策树分类
+实验六十九 R语言算法：随机森林分类
+实验七十 R语言算法：贝叶斯分类
+实验七十一 R语言算法：KNN分类
+实验七十二 R语言算法：SVM分类
+实验七十三 R语言算法：K-means聚类
+实验七十四 R语言算法：DBSCAN聚类
+实验七十五 R语言算法：回归分析
+实验七十六 R语言算法：Apriori关联规则实验
+实验七十七 R语言算法：时间序列分析
+实验七十八 R语言实战：回归预测空气指数
+实验七十九 R语言实战：按月进行时间序列预测温度
+实验八十 R语言实战：区域经纬度聚类
+实验八十一 R语言实战：随机森林分类空气质量
+附录A Linux基础：常用基本命令
+附录B Linux基础：文件操作
+附录C Linux基础：sed
+附录D Linux基础：awk
+爬取豆瓣电影信息
+爬取豆瓣图书Top250
+爬取双色球开奖信息
+网络小说下载（一）
+网络小说下载（二）
+正则表达式
+Python线性回归实验
+Spark综合实战：环境数据读写
+Spark综合实战：词频统计
+Spark综合实战：中文分词
+Spark综合实战：特征提取
+Spark综合实战：GM11预测环境数据
+Spark综合实战：日志分析
+Spark综合实战：分类算法学习
+Spark综合实战：聚类算法学习
+Spark综合实战：ALS算法推荐
+本地配置maven-scala
+R语言实战：简单地铁路线推荐
+R语言实战：批量抓取位置经纬度坐标
+MR实现倒排索引
+Spark实现倒排索引
+实验R语言：股票数据抓取与分析 （一）
+实验R语言：股票数据抓取与分析（二）
+附录E Linux基础：文本编辑器vi
+实验R语言：分析新浪股票数据
+实验R语言：多元线性回归研究我国经济增长
+房价数据分析
+实验R语言：时间序列分析-ARIMA模型（一）
+实验R语言：时间序列分析-指数平滑模型（二）
+spark垃圾邮件分类
+夏普比率与最大回撤和最大回撤时间
+最优风险资产组合(一)
+最优风险资产组合(二)
+实验R语言：金融风险管理：VaR 和 ES
+实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+实验R语言：金融风险管理：分位数回归法计算 VaR
+实验R语言：对英国房屋价格建模并预测
+实验R语言：航空燃油的交叉对冲
+预测股票走势
+Sqoop1+Phoenix迁移操作京东手机数据
+实验R语言：分析股票指数的GARCH效应
+基于CAPM模型的预期收益率与实际收益率
+Spark：用户App下载关联规则计算
+Shell基础：（流程控制）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+Shell运维实践：（服务器安全）
+航空公司客户价值分析
+Spark：预测谋杀率
+漏电窃电用户判断
+Python：中医病理分析
+Python数据挖掘-电商产品评论数据情感分析
+Python实战：实时中美货币转换
+Linux基础：（正则表达式）
+Shell运维实践：（用户管理）
+java正则表达式
+scala正则表达式
+kettle介绍及从文本文件抽取数据到数据库
+CSV文件数据抽取到数据库
+excel文件导入数据库
+Json文件和xml文件的抽取
+MySQL数据迁移MongoDB
+住房数据清洗
+银华基金数据清洗实例
+客户签到数据的清洗转换
+基于触发器的数据增删改的增量更新
+数据脱敏实例
+Shell运维实践：（主机信息检测）
+Spark综合实战：游戏数据分析
+金1：实验R语言：分析新浪股票数据
+金2：实验R语言：股票数据抓取与分析（一）
+金3：实验R语言：股票数据抓取与分析（二）
+金4：实验R语言：时间序列分析-ARIMA模型（一）
+金5：实验R语言：时间序列分析-指数平滑模型（二）
+金6：实验R语言：对英国房屋价格建模并预测
+金7：实验R语言：航空燃油的交叉对冲
+金8：实验R语言：多元线性回归研究我国经济增长
+金9：实验R语言：金融风险管理：VaR 和 ES
+金10：实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+金11：实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+金12：实验R语言：金融风险管理：分位数回归法计算 VaR
+金13：实验R语言：分析股票指数的GARCH效应
+金14：实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+金15：实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+金16：实验Python：夏普比率与最大回撤和最大回撤时间
+金17：实验Python：最优投资组合（上）
+金18：实验Python：最优投资组合（下）
+金19：实验Python：预测股票走势
+金20：实验Python：基于CAPM模型的预期收益率与实际收益率
+金21：实验Python：航空公司客户价值分析
+金22：实验Python：漏窃电用户行为分析与事件识别（上）
+金23：实验Python：漏窃电用户行为分析与事件识别（下）
+金24：实验Python：电商产品评论数据情感分析
+金25：实验Python：中美实时货币转换
+金26：实验Python：利用层次聚类算法进行基于基站定位数据的商圈分析
+金27：实验Python：应用系统负载分析与磁盘容量预测（上）
+金28：实验Python：应用系统负载分析与磁盘容量预测（下）
+R语言电子商务实验-航空公司客户价值分析
+R语言电子商务实验-基于基站定位数据的商圈分析
+R语言电子商务实验-数据分析实战1：用R做柱状图分析销售额减少
+R语言电子商务实验-数据分析实战2：交叉列表统计何种顾客会离开
+R语言电子商务实验-数据分析实战3：AB测试分析哪种广告的效果更好
+R语言电子商务实验-数据分析实战4：多元回归分析如何通过各种广告的组合获得更多的用户
+R语言电子商务实验-数据分析实战5：逻辑回归分析根据过去的行为能否预测当下
+R语言电子商务实验-数据分析实战6：利用k-means聚类选择目标用户群
+R语言电子商务实验-数据分析实战7：利用决策树分析哪些用户是长期用户
+R语言电子商务实验-员工离职预测实战(一)
+R语言电子商务实验-员工离职预测实战(二)
+Python电子商务实验-电商产品评论数据情感分析
+Python电子商务实验-电商打折套路解析（上）
+Python电子商务实验-电商打折套路解析（下）
+Python电子商务实验-分析eBay汽车销售数据
+Python电子商务实验-分析客户流失(二)
+Python电子商务实验-分析客户流失(一)
+Python电子商务实验-航空公司客户价值分析
+Python电子商务实验-利用Python进行市场购物篮分析
+Python电子商务实验-利用Python做淘宝商品的数据挖掘分析
+Python电子商务实验-利用层次聚类算法进行基于基站定位数据的商圈分析
+Python电子商务实验-爬虫爬取拉勾网职业信息分析
+Python电子商务实验-水产养殖企业企业水质分析
+Python电子商务实验-销售收入预测
+Python电子商务实验-用户欺诈预测
+Python电子商务实验-用户投诉分析
+Python数学统计实验-财政收入影响因素分析及预测模型
+Python数学统计实验-分析美国对数据科学家专业技能需求（二）
+Python数学统计实验-分析美国对数据科学家专业技能需求（一）
+Python数学统计实验-估计
+Python数学统计实验-利用 Python 进行员工流失分析（四）
+Python数学统计实验-利用 Python 进行员工流失分析（三）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（下）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（上）
+Python数学统计实验-统计计算
+Python数学统计实验-新加坡空气污染原因分析（下）
+Python数学统计实验-新加坡空气污染原因分析（上）
+Python数学统计实验-研究统计学基础（三）
+Python数学统计实验-研究统计学基础（二）
+Python数学统计实验-研究统计学基础（一）
+Python统计学实战实验-回归分析预测房价 (下)
+Python统计学实战实验-回归分析预测房价 (上)
+R语言数学统计实战实验-房价预测：高阶回归技术应用
+R语言数学统计分析-时间序列（三）
+R语言数学统计分析-时间序列（二）
+R语言数学统计分析-时间序列（一）
+R语言数学统计实验-方差分析（二）
+R语言数学统计实验-方差分析（一）
+R语言数学统计实验-分类
+R语言数学统计实验-分类和聚类（二）
+R语言数学统计实验-分类和聚类(一）
+R语言数学统计实验-概率与分布
+R语言数学统计实验-高级数据管理
+R语言数学统计实验-功效分析
+R语言数学统计实验-广义线性模型（二）
+R语言数学统计实验-广义线性模型（一）
+R语言数学统计实验-回归（四）
+R语言数学统计实验-回归（三）
+R语言数学统计实验-回归（二）
+R语言数学统计实验-回归（一）
+R语言数学统计实验-基本统计分析（三）
+R语言数学统计实验-基本统计分析（二）
+R语言数学统计实验-基本统计分析（一）
+R语言数学统计实验-基本图形
+R语言数学统计实验-建模实战
+R语言数学统计实验-聚类分析
+R语言数学统计实验-时序数据分析
+R语言数学统计实验-数据的筛选与汇总
+R语言数学统计实验-数据平滑
+R语言数学统计实验-数据重构
+R语言数学统计实验-中级绘图（二）
+R语言数学统计实验-中级绘图（一）
+R语言数学统计实验-重抽样与自助法（二）
+R语言数学统计实验-重抽样与自助法（一）
+R语言数学统计实验-主成分分析和因子分析（二）
+R语言数学统计实验-主成分分析和因子分析（一）
+python可视化基础实验-pyechart模块
+python可视化-全球经济指标动态分析
+Jupyter_Notebook使用教程
+实验一百四十 R语言实战：区域经纬度聚类
+实验一百四十一 R语言实战：随机森林分类空气质量
+实验一百二十九 R语言算法：随机森林分类
+实验一百二十七 R语言基础：因子操作
+实验一百二十五 R语言基础：文件操作
+实验一百二十 Python算法：Apriori关联规则
+实验一百二十八 R语言算法：决策树分类
+实验一百二十二 Python实战：区域经纬度聚类
+实验一百二十六 R语言基础：数据帧
+实验一百二十三 Python实战：回归预测空气指数
+实验一百二十四 R语言基础：流程控制
+实验一百二十一 Python实战：随机森林分类空气质量
+实验一百三十 R语言算法：贝叶斯分类
+实验一百三十二 R语言算法：SVM分类
+实验一百三十六 R语言算法：Apriori关联规则实验
+实验一百三十四 R语言算法：DBSCAN聚类
+实验一百零八 Python统计上海2016年每月历史天气
+实验一百零三 Python基础：流程控制
+实验一百零四 Python基础：列表和元组
+实验一百一十 Python统计北京和上海2016年月均气温对比
+实验一百一十八 Python算法：DBSCAN聚类
+实验一百一十二 Python算法：决策树分类
+实验一百一十六 Python算法：支持向量机分类
+实验一百一十四 Python算法：朴素贝叶斯分类
+实验一百三十八 R语言实战：回归预测空气指数
+实验一百三十九 R语言实战：按月进行时间序列预测温度
+实验一百三十七 R语言算法：时间序列分析
+实验一百三十三 R语言算法：K-means聚类
+实验一百三十五 R语言算法：回归分析
+实验一百三十一 R语言算法：KNN分类
+实验一百三十九 Python统计上海2016年每月空气质量
+实验一百零六 Python基础：文件操作
+实验一百零七 Python统计全国各省城市数量分布
+实验一百零五 Python基础：字典
+实验一百一十九 Python算法：回归分析
+实验一百一十七 Python算法：K-means聚类
+实验一百一十三 Python算法：随机森林分类
+实验一百一十五 Python算法：K最近邻分类
+实验一百一十一 Python统计北京和上海2016年空气质量对比
+神经网络的原理与构建（一）：手工打造神经网络
+神经网络的原理与构建（二）：神经网络调优
+神经网络的原理与构建（三）：用自己的手写数字—测试神经网络
+实验python：分析Titanic生还率（一）
+实验python：分析Titanic生还率（二）
+实验python：分析Titanic生还率（三）
+实验R语言 简单地铁路线推荐
+实验R语言 批量抓取位置经纬度坐标
+Numpy实现LSTM进行字符级的文本预测
+Numpy实现RNN进行字符级的文本预测
+使用NumPy完成卷积神经网络CNN的搭建
+标注工具的安装与基础操作
+标框标注基础：车牌日常环境标框标注
+区域标注：遥感影像区域标注
+分类实验基础：水果分类标注
+属性标注：人像特征属性标注
+标框标注：车牌夜晚环境标框标注
+标框标注：不完整车牌标框标注
+分类标注：人脸分类标注
+细胞分类标注
+标框标注：人脸标框标注
+标框标注：行人标框标注
+标框标注：车辆标框标注
+标框标注综合实验：行人车辆混合标框标注
+标框标注：细胞标框标注
+多边形标注：车辆多边形标注
+多边形标注：道路标志多边形标注
+区域标注：道路区域标注
+附录F Linux基础：grep
+附录G Linux基础：cut
+附录H Linux进阶：sed、awk、grep、cut综合运用
+Python运维实践：（主机端口管理）
+Linux常用命令：解压缩
+Pandas使用教程（一）
+Pandas使用教程（二）
+Python网络爬虫实验：多进程采集
+NumPy使用手册
+Python网络爬虫实验：多进程 + 多线程采集
+Python网络爬虫实验：多线程采集.
+Python获取财经数据和可视化分析
+python基础实验-迭代器、生成器，装饰器
+Python量化策略风险指标
+R语言：线性回归
+R语言基础：函数
+Python基础实验：正则表达式
+python基础实验-数据结构
+python基础实验-文件处理.ipynb
+python基础实验-异常.ipynb
+python基础实验-运算符和表达式
+python基础实验-字符串
+Python金融量化_上市公司知多少
+python爬虫实验-爬取京东iphone8的评论
+Python爬虫之协程异步
+pyhton-Scipy教程（上）
+python基础实验−条件控制
+python数据挖掘-Statsmodel模块(1)
+python数据挖掘-Statsmodel模块(2)
+python数据挖掘-scikit-learn模块实例
+python数据挖掘-scikit-learn模块（上）
+python数据挖掘-scikit-learn模块（下）
+python数据挖掘-C4.5算法
+网络小说下载（一）
+网络小说下载（二）
+R语言基础：数组
+Python金融数据处理（一）
+Python金融数据处理（二）
+实验Python：实验股票分析入门
+银行用户满意度分析（上）
+银行用户满意度分析（下）
+数据清洗：数据分列
+数据清洗：缺失值清洗
+数据清洗：格式内容清洗
+数据清洗：Excel数据清洗常用函数（一）
+数据清洗：Excel数据清洗常用函数（二）
+数据清洗：RDBMS数据清洗准备工作
+数据清洗：逻辑错误清洗
+R语言基础：缺失值分析
+R语言基础：异常值分析
+R语言基础：数据结构
+R语言基础：tidyverse生态链
+R语言基础：apply家族函数与管道操作教程
+R语言基础：tidyr和dplyr应用（一）——数据重塑
+R语言基础：tidyr和dplyr应用（二）——数据转换
+R语言基础：tidyr和dplyr应用（三）——实战案例
+Python爬虫三大库之BeautifulSoup
+Python爬虫三大库之Lxml
+Python爬虫三大库之Requests
+Python爬虫实验-爬虫原理
+数据清洗：快速定位和快速填充
+数据清洗：多表数据横向汇总
+数据清洗：多表数据纵向汇总
+铁路螺栓标框标注
+python爬虫：7日天气预报
+R语言爬虫：批量网页图片下载
+Python数学统计实验-回归
+Python数学统计实验-时间序列预测（一）
+Python数学统计实验-时间序列预测（二）
+爱荷华州房价预测（一）
+爱荷华州房价预测（二）
+R语言综合实验：基于R语言实现云词图的绘制
+Python爬虫：爬取豆瓣图书Top250
+冠状病毒可视化实战
+基于公共基因组数据分析对COVID2的起源探索
+可视化实验
+python编程入门
+可视化实战
+咖啡数据分析
+AWS动手实验Key Pairs
+AWS动手实验EC2
+AWS动手实验Elastic IPs
+AWS动手实验IAM
+AWS动手实验ELB
+AWS动手实验Memcached
+AWS动手实验MySQL
+AWS动手实验S3
+AWS动手实验Security Group
+AWS动手实验VPC
+绘制小说词云
+篮球命中率可视化分析
+纽约出租车运营情况可视化分析（一）
+纽约出租车运营情况可视化分析（二）
+爬取豆瓣电影信息 JN版
+Spark-Scala+Python综合实战：最优风险资产组合(一)
+Python数据清洗
+Python电影数据简单分析
+全美婴儿姓名分析
+Python实现二叉树
+芳华词云图+LDA分析
+Titanic数据案例分析
+R语言数据清洗
+test
+
+实验七 MapReduce实验：计数器
+7.1 实验目的
+基于MapReduce思想，编写计数器程序。
+
+7.2 实验要求
+能够理解MapReduce编程思想，然后会编写MapReduce版本计数器程序，并能执行该程序和分析执行过程。
+
+7.3 实验背景
+7.3.1 MapReduce计数器是什么？
+计数器是用来记录job的执行进度和状态的。它的作用可以理解为日志。我们可以在程序的某个位置插入计数器，记录数据或者进度的变化情况。
+
+7.3.2 MapReduce计数器能做什么？
+MapReduce 计数器（Counter）为我们提供一个窗口，用于观察 MapReduce Job 运行期的各种细节数据。对MapReduce性能调优很有帮助，MapReduce性能优化的评估大部分都是基于这些 Counter 的数值表现出来的。
+
+在许多情况下，一个用户需要了解待分析的数据，尽管这并非所要执行的分析任务 的核心内容。以统计数据集中无效记录数目的任务为例，如果发现无效记录的比例 相当高，那么就需要认真思考为何存在如此多无效记录。是所采用的检测程序存在 缺陷，还是数据集质量确实很低，包含大量无效记录？如果确定是数据集的质量问 题，则可能需要扩大数据集的规模，以增大有效记录的比例，从而进行有意义的分析。
+
+计数器是一种收集作业统计信息的有效手段，用于质量控制或应用级统计。计数器 还可辅助诊断系统故障。如果需要将日志信息传输到map或reduce任务，更好的 方法通常是尝试传输计数器值以监测某一特定事件是否发生。对于大型分布式作业 而言，使用计数器更为方便。首先，获取计数器值比输出日志更方便，其次，根据 计数器值统计特定事件的发生次数要比分析一堆日志文件容易得多。 
+
+7.3.3 内置计数器
+MapReduce 自带了许多默认Counter，现在我们来分析这些默认 Counter 的含义，方便大家观察 Job 结果，如输入的字节数、输出的字节数、Map端输入/输出的字节数和条数、Reduce端的输入/输出的字节数和条数等。下面我们只需了解这些内置计数器，知道计数器组名称（groupName）和计数器名称（counterName），以后使用计数器会查找groupName和counterName即可。
+
+7.3.4 计数器使用
+7.3.4.1 定义计数器
+枚举声明计数器：
+
+// 自定义枚举变量Enum
+Counter counter = context.getCounter(Enum enum)
+自定义计数器：
+
+// 自己命名groupName和counterName
+Counter counter = context.getCounter(String groupName,String counterName)
+7.3.4.2 为计数器赋值
+初始化计数器：
+
+counter.setValue(long value);//设置初始值
+计数器自增：
+
+counter.increment(long incr);// 增加计数
+7.3.4.3 获取计数器的值
+获取枚举计数器的值：
+
+Configuration conf = new Configuration();
+Job job = new Job(conf, "MyCounter");
+job.waitForCompletion(true);
+Counters counters=job.getCounters();
+Counter counter=counters.findCounter(LOG_PROCESSOR_COUNTER.BAD_RECORDS_LONG);// 查找枚举计数器，假如Enum的变量为BAD_RECORDS_LONG
+long value=counter.getValue();//获取计数值
+获取自定义计数器的值：
+
+Configuration conf = new Configuration();
+Job job = new Job(conf, "MyCounter");
+job.waitForCompletion(true);
+Counters counters = job.getCounters();
+Counter counter=counters.findCounter("ErrorCounter","toolong");// 假如groupName为ErrorCounter，counterName为toolong
+long value = counter.getValue();// 获取计数值
+获取内置计数器的值：
+
+Configuration conf = new Configuration();
+Job job = new Job(conf, "MyCounter");
+job.waitForCompletion(true);
+Counters counters=job.getCounters();
+// 查找作业运行启动的reduce个数的计数器，groupName和counterName可以从内置计数器表格查询（前面已经列举有）
+Counter counter=counters.findCounter("org.apache.hadoop.mapreduce.JobCounter","TOTAL_LAUNCHED_REDUCES") ;// 假如groupName为org.apache.hadoop.mapreduce.JobCounter，counterName为TOTAL_LAUNCHED_REDUCES
+long value=counter.getValue();// 获取计数值
+获取所有计数器的值：
+
+Configuration conf = new Configuration();
+Job job = new Job(conf, "MyCounter");
+Counters counters = job.getCounters();
+for (CounterGroup group : counters) {
+  for (Counter counter : group) {
+    System.out.println(counter.getDisplayName() + ": " + counter.getName() + ": "+ counter.getValue());
+  }
+}
+7.3.5 自定义计数器
+MapReduce允许用户编写程序来定义计数器，计数器的值可在mapper或reducer 中增加。多个计数器由一个Java枚举(enum)类型来定义，以便对计数器分组。一个作业可以定义的枚举类型数量不限，各个枚举类型所包含的字段数量也不限。枚 举类型的名称即为组的名称，枚举类型的字段就是计数器名称。计数器是全局的。换言之，MapReduce框架将跨所有map和reduce聚集这些计数器，并在作业结束 时产生一个最终结果。
+
+7.4 实验步骤
+7.4.1 实验分析设计
+该实验要求学生自己实现一个计数器，统计输入的无效数据。说明如下：
+
+假如一个文件，规范的格式是3个字段，“\t”作为分隔符，其中有2条异常数据，一条数据是只有2个字段，一条数据是有4个字段。其内容如下所示：
+
+jim     1     28
+kate    0     26
+tom    1
+lily     0     29    22
+编写代码统计文档中字段不为3个的异常数据个数。如果字段超过3个视为过长字段，字段少于3个视为过短字段。
+
+7.4.2 编写程序
+完整代码：
+
+package mr ;
+import java.io.IOException;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.io.LongWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Counter;
+import org.apache.hadoop.mapreduce.Job;
+import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
+import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+import org.apache.hadoop.util.GenericOptionsParser;
+
+public class Counters {
+	public static class MyCounterMap extends Mapper<LongWritable, Text, Text, Text> {
+		public static Counter ct = null;
+		protected void map(LongWritable key, Text value,
+				org.apache.hadoop.mapreduce.Mapper<LongWritable, Text, Text, Text>.Context context)
+				throws java.io.IOException, InterruptedException {
+			String arr_value[] = value.toString().split("\t");
+if (arr_value.length > 3) {
+	ct = context.getCounter("ErrorCounter", "toolong"); // ErrorCounter为组名，toolong为组员名
+ct.increment(1); // 计数器加一
+} else if (arr_value.length < 3) {
+	ct = context.getCounter("ErrorCounter", "tooshort");
+			ct.increment(1);
+		}
+	}
+}
+public static void main(String[] args) throws IOException, InterruptedException, ClassNotFoundException {
+	Configuration conf = new Configuration();
+	String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
+	if (otherArgs.length != 2) {
+		System.err.println("Usage: Counters <in> <out>");
+	System.exit(2);
+}
+Job job = new Job(conf, "Counter");
+		job.setJarByClass(Counters.class);
+
+		job.setMapperClass(MyCounterMap.class);
+
+		FileInputFormat.addInputPath(job, new Path(otherArgs[0]));
+		FileOutputFormat.setOutputPath(job, new Path(otherArgs[1]));
+		System.exit(job.waitForCompletion(true) ? 0 : 1);
+	}
+}
+7.4.3 打包并提交
+使用Eclipse开发工具将该代码打包，选择主类为mr.Counters。假定打包后的文件名为Counters.jar，主类Counters位于包mr下，则可使用如下命令向Hadoop集群提交本应用。
+
+[root@master hadoop]# bin/hadoop  jar  Counters.jar  mr.Counters /usr/counters/in/counters.txt  /usr/counters/out
+其中“hadoop”为命令，“jar”为命令参数，后面紧跟打包。 “/usr/counts/in/counts.txt”为输入文件在HDFS中的位置(如果没有，自行上传)，“/usr/counts/out”为输出文件在HDFS中的位置。
+
+7.5 实验结果
+7.5.1 输入数据
+输入数据如下：counters.txt（\t分割）（数据统一放在/root/data目录下）。
+
+jim     1     28
+kate    0     26
+tom    1
+lily     0     29    22
+7.5.2 输出显示
+如图7-1所示：
+
+
+图7-1

@@ -1,0 +1,78 @@
+ <property>
+                <name>hadoop.tmp.dir</name>
+                <value>/usr/cstor/hadoop/cloud</value>
+        </property>
+        <property>
+                <name>fs.defaultFS</name>
+                <value>hdfs://master:8020</value>
+        </property>
+
+#关联hadoop jar包
+export JAVA_HOME=/usr/local/jdk1.7.0_79/
+export HADOOP_HOME=/usr/cstor/hadoop
+export JRE_HOME=/usr/local/jdk1.7.0_79/jre
+export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
+export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$HADOOP_HOME/share/hadoop/common/*:$HADOOP_HOME/share/hadoop/common/lib/*
+export PATH=$PATH:$HADOOP_HOME/bin
+export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib:$HADOOP_HOME/lib/native"
+
+
+jar -cvf hdpAction.jar WriteFile.class
+
+hadoop jar ~/hdpAction.jar WriteFile
+#查看文件内容
+hadoop fs -cat /weather.txt
+
+
+ <property>
+                <name>yarn.resourcemanager.hostname</name>
+                <value>master</value>
+        </property>
+        <property>
+                <name>yarn.nodemanager.aux-services</name>
+                <value>mapreduce_shuffle</value>
+        </property>
+
+#主从复制
+for x in 'slave1';do echo $x;scp /usr/cstor/hadoop/etc/hadoop/yarn-site.xml $x:/usr/cstor/hadoop/etc/hadoop; done;
+
+
+[root@master ~]# /usr/cstor/hadoop/bin/yarn
+org.apache.hadoop.yarn.applications.distributedshell.Client  -jar \
+/usr/cstor/hadoop/share/hadoop/yarn/hadoop-yarn-applications-distributedshell-2.7.1.jar \
+-shell_command  uptime
+
+<property>
+        <name>mapreduce.framework.name</name>
+        <value>yarn</value>
+</property>
+
+#蒙特卡洛计算 pi
+bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.1.jar pi 2 10
+
+#向 yarn 集群提交应用
+yarn jar hdpAction.jar njupt.WordCount /word /wordcount 1  #jar包名，包名.类名 文件路径 文件输出路径
+
+bin/hadoop fs -ls /wordcount
+bin/hadoop fs -cat /wordcount/part-r-00000
+
+
+hadoop fs -mkdir -p /user/mapreduce/secsort/in
+hadoop fs -copyFromLocal /root/data/6/secsortdata.txt  /user/mapreduce/secsort/in
+#向 hadoop 集群提交应用
+bin/hadoop jar hdpAction.jar mr.SecondarySort /user/mapreduce/secsort/in/secsortdata.txt /user/mapreduce/secsort/out 1
+bin/hadoop fs -cat /user/mapreduce/secsort/out/p*
+
+
+hadoop fs -mkdir -p /usr/counters/in
+hadoop fs -copyFromLocal /root/data/7/counters.txt  /usr/counters/in
+bin/hadoop  jar  Counters.jar  mr.Counters /usr/counters/in/counters.txt  /usr/counters/out
+
+
+hadoop fs -mkdir -p /usr/MRJoin/in
+hadoop fs -copyFromLocal /root/data/8/data.txt  /usr/MRJoin/in
+hadoop fs -copyFromLocal /root/data/8/info.txt  /usr/MRJoin/in
+bin/hadoop jar MRJoin.jar mr.MRJoin /usr/MRJoin/in/data.txt /usr/MRJoin/in/info.txt /usr/MRJoin/out
+bin/hadoop fs -cat /usr/MRJoin/out/p*
+

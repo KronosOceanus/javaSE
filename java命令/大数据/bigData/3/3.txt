@@ -1,0 +1,675 @@
+1807004528 01
+ 平台监控
+ 探索环境
+ 我的课程
+ 考试系统
+ 资料工具
+ 学习资料
+ 教材列表
+ 相关下载
+ 我的通知
+ 关于我们
+在线实验手册资料工具/在线实验手册
+实验一 基本操作实验
+HDFS实验：部署HDFS 实验任务书
+HDFS实验：读写HDFS文件 实验任务书
+YARN实验：部署YARN集群 实验任务书
+MapReduce实验：单词计数 实验任务书
+MapReduce实验：二次排序 实验任务书
+MapReduce实验：计数器 实验任务书
+实验八 MapReduce实验：Join操作
+实验九 MapReduce实验：分布式缓存
+实验十 Hive实验：部署Hive
+实验十一 Hive实验：新建Hive表
+实验十二 Hive实验：Hive分区
+实验十三 Spark实验：部署Spark集群
+实验十四 Spark实验：SparkWordCount
+实验十五 Spark实验：RDD综合实验
+实验十六 Spark实验：Spark综例
+实验十七 Spark实验：Spark SQL
+实验十八 Spark实验：Spark Streaming
+实验十九 Spark实验：GraphX
+实验二十 Zookeeper实验：部署ZooKeeper
+实验二十一 Zookeeper实验：进程协作
+实验二十二 HBase实验：部署HBase
+实验二十三 HBase实验：新建HBase表
+实验二十四 Storm实验：部署Storm
+实验二十五 Storm实验：实时WordCountTopology
+实验二十六 Flume实验：文件数据Flume至HDFS
+实验二十七 Kafka实验：订阅推送示例
+实验二十八 Pig实验：Pig版WordCount
+实验二十九 Redis实验：Redis部署与简单使用
+实验三十 Redis实验：读写Redis
+实验三十一 MongoDB实验：读写MongoDB
+实验三十二 LevelDB实验：读写LevelDB
+实验三十三 Mahout实验：K-Means
+实验三十四 使用Spark实现K-Means
+实验三十五 使用Spark实现SVM
+实验三十六 使用Spark实现FP-Growth
+实验三十七 综合实战：车牌识别
+实验三十八 综合实战：搜索引擎
+实验三十九 综合实战：精确营销
+实验四十 综合实战：环境大数据
+实验四十一 综合实战：物联网
+实验四十二 综合实战：贷款风险评估
+实验四十三 Python基础：流程控制
+实验四十四 Python基础：列表和元组
+实验四十五 Python基础：字典
+实验四十六 Python基础：文件操作
+实验四十七 Python统计全国各省城市数量分布
+实验四十八 Python统计上海2016年每月历史天气
+实验四十九 Python统计上海2016年每月空气质量
+实验五十 Python统计北京和上海2016年月均气温对比
+实验五十一 Python统计北京和上海2016年空气质量对比
+实验五十二 Python算法：决策树分类
+实验五十三 Python算法：随机森林分类
+实验五十四 Python算法：朴素贝叶斯分类
+实验五十五 Python算法：K最近邻分类
+实验五十六 Python算法：支持向量机分类
+实验五十七 Python算法：K-means聚类
+实验五十八 Python算法：DBSCAN聚类
+实验五十九 Python算法：回归分析
+实验六十 Python算法：Apriori关联规则
+实验六十一 Python实战：随机森林分类空气质量
+实验六十二 Python实战：区域经纬度聚类
+实验六十三 Python实战：回归预测空气指数
+实验六十四 R语言基础：流程控制
+实验六十五 R语言基础：文件操作
+实验六十六 R语言基础：数据帧
+实验六十七 R语言基础：因子操作
+实验六十八 R语言算法：决策树分类
+实验六十九 R语言算法：随机森林分类
+实验七十 R语言算法：贝叶斯分类
+实验七十一 R语言算法：KNN分类
+实验七十二 R语言算法：SVM分类
+实验七十三 R语言算法：K-means聚类
+实验七十四 R语言算法：DBSCAN聚类
+实验七十五 R语言算法：回归分析
+实验七十六 R语言算法：Apriori关联规则实验
+实验七十七 R语言算法：时间序列分析
+实验七十八 R语言实战：回归预测空气指数
+实验七十九 R语言实战：按月进行时间序列预测温度
+实验八十 R语言实战：区域经纬度聚类
+实验八十一 R语言实战：随机森林分类空气质量
+附录A Linux基础：常用基本命令
+附录B Linux基础：文件操作
+附录C Linux基础：sed
+附录D Linux基础：awk
+爬取豆瓣电影信息
+爬取豆瓣图书Top250
+爬取双色球开奖信息
+网络小说下载（一）
+网络小说下载（二）
+正则表达式
+Python线性回归实验
+Spark综合实战：环境数据读写
+Spark综合实战：词频统计
+Spark综合实战：中文分词
+Spark综合实战：特征提取
+Spark综合实战：GM11预测环境数据
+Spark综合实战：日志分析
+Spark综合实战：分类算法学习
+Spark综合实战：聚类算法学习
+Spark综合实战：ALS算法推荐
+本地配置maven-scala
+R语言实战：简单地铁路线推荐
+R语言实战：批量抓取位置经纬度坐标
+MR实现倒排索引
+Spark实现倒排索引
+实验R语言：股票数据抓取与分析 （一）
+实验R语言：股票数据抓取与分析（二）
+附录E Linux基础：文本编辑器vi
+实验R语言：分析新浪股票数据
+实验R语言：多元线性回归研究我国经济增长
+房价数据分析
+实验R语言：时间序列分析-ARIMA模型（一）
+实验R语言：时间序列分析-指数平滑模型（二）
+spark垃圾邮件分类
+夏普比率与最大回撤和最大回撤时间
+最优风险资产组合(一)
+最优风险资产组合(二)
+实验R语言：金融风险管理：VaR 和 ES
+实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+实验R语言：金融风险管理：分位数回归法计算 VaR
+实验R语言：对英国房屋价格建模并预测
+实验R语言：航空燃油的交叉对冲
+预测股票走势
+Sqoop1+Phoenix迁移操作京东手机数据
+实验R语言：分析股票指数的GARCH效应
+基于CAPM模型的预期收益率与实际收益率
+Spark：用户App下载关联规则计算
+Shell基础：（流程控制）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+Shell运维实践：（服务器安全）
+航空公司客户价值分析
+Spark：预测谋杀率
+漏电窃电用户判断
+Python：中医病理分析
+Python数据挖掘-电商产品评论数据情感分析
+Python实战：实时中美货币转换
+Linux基础：（正则表达式）
+Shell运维实践：（用户管理）
+java正则表达式
+scala正则表达式
+kettle介绍及从文本文件抽取数据到数据库
+CSV文件数据抽取到数据库
+excel文件导入数据库
+Json文件和xml文件的抽取
+MySQL数据迁移MongoDB
+住房数据清洗
+银华基金数据清洗实例
+客户签到数据的清洗转换
+基于触发器的数据增删改的增量更新
+数据脱敏实例
+Shell运维实践：（主机信息检测）
+Spark综合实战：游戏数据分析
+金1：实验R语言：分析新浪股票数据
+金2：实验R语言：股票数据抓取与分析（一）
+金3：实验R语言：股票数据抓取与分析（二）
+金4：实验R语言：时间序列分析-ARIMA模型（一）
+金5：实验R语言：时间序列分析-指数平滑模型（二）
+金6：实验R语言：对英国房屋价格建模并预测
+金7：实验R语言：航空燃油的交叉对冲
+金8：实验R语言：多元线性回归研究我国经济增长
+金9：实验R语言：金融风险管理：VaR 和 ES
+金10：实验R语言：金融风险管理：Delta-normal方法计算 VaR 和 ES
+金11：实验R语言：金融风险管理：历史模拟法、蒙特卡罗模拟法计算 VaR 和 ES
+金12：实验R语言：金融风险管理：分位数回归法计算 VaR
+金13：实验R语言：分析股票指数的GARCH效应
+金14：实验R语言：建立VAR模型分析联合内生变量的动态关系（一）
+金15：实验R语言：建立VAR模型分析联合内生变量的动态关系（二）
+金16：实验Python：夏普比率与最大回撤和最大回撤时间
+金17：实验Python：最优投资组合（上）
+金18：实验Python：最优投资组合（下）
+金19：实验Python：预测股票走势
+金20：实验Python：基于CAPM模型的预期收益率与实际收益率
+金21：实验Python：航空公司客户价值分析
+金22：实验Python：漏窃电用户行为分析与事件识别（上）
+金23：实验Python：漏窃电用户行为分析与事件识别（下）
+金24：实验Python：电商产品评论数据情感分析
+金25：实验Python：中美实时货币转换
+金26：实验Python：利用层次聚类算法进行基于基站定位数据的商圈分析
+金27：实验Python：应用系统负载分析与磁盘容量预测（上）
+金28：实验Python：应用系统负载分析与磁盘容量预测（下）
+R语言电子商务实验-航空公司客户价值分析
+R语言电子商务实验-基于基站定位数据的商圈分析
+R语言电子商务实验-数据分析实战1：用R做柱状图分析销售额减少
+R语言电子商务实验-数据分析实战2：交叉列表统计何种顾客会离开
+R语言电子商务实验-数据分析实战3：AB测试分析哪种广告的效果更好
+R语言电子商务实验-数据分析实战4：多元回归分析如何通过各种广告的组合获得更多的用户
+R语言电子商务实验-数据分析实战5：逻辑回归分析根据过去的行为能否预测当下
+R语言电子商务实验-数据分析实战6：利用k-means聚类选择目标用户群
+R语言电子商务实验-数据分析实战7：利用决策树分析哪些用户是长期用户
+R语言电子商务实验-员工离职预测实战(一)
+R语言电子商务实验-员工离职预测实战(二)
+Python电子商务实验-电商产品评论数据情感分析
+Python电子商务实验-电商打折套路解析（上）
+Python电子商务实验-电商打折套路解析（下）
+Python电子商务实验-分析eBay汽车销售数据
+Python电子商务实验-分析客户流失(二)
+Python电子商务实验-分析客户流失(一)
+Python电子商务实验-航空公司客户价值分析
+Python电子商务实验-利用Python进行市场购物篮分析
+Python电子商务实验-利用Python做淘宝商品的数据挖掘分析
+Python电子商务实验-利用层次聚类算法进行基于基站定位数据的商圈分析
+Python电子商务实验-爬虫爬取拉勾网职业信息分析
+Python电子商务实验-水产养殖企业企业水质分析
+Python电子商务实验-销售收入预测
+Python电子商务实验-用户欺诈预测
+Python电子商务实验-用户投诉分析
+Python数学统计实验-财政收入影响因素分析及预测模型
+Python数学统计实验-分析美国对数据科学家专业技能需求（二）
+Python数学统计实验-分析美国对数据科学家专业技能需求（一）
+Python数学统计实验-估计
+Python数学统计实验-利用 Python 进行员工流失分析（四）
+Python数学统计实验-利用 Python 进行员工流失分析（三）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（下）
+Python数学统计实验-统计分析集成开发软件受欢迎程度（上）
+Python数学统计实验-统计计算
+Python数学统计实验-新加坡空气污染原因分析（下）
+Python数学统计实验-新加坡空气污染原因分析（上）
+Python数学统计实验-研究统计学基础（三）
+Python数学统计实验-研究统计学基础（二）
+Python数学统计实验-研究统计学基础（一）
+Python统计学实战实验-回归分析预测房价 (下)
+Python统计学实战实验-回归分析预测房价 (上)
+R语言数学统计实战实验-房价预测：高阶回归技术应用
+R语言数学统计分析-时间序列（三）
+R语言数学统计分析-时间序列（二）
+R语言数学统计分析-时间序列（一）
+R语言数学统计实验-方差分析（二）
+R语言数学统计实验-方差分析（一）
+R语言数学统计实验-分类
+R语言数学统计实验-分类和聚类（二）
+R语言数学统计实验-分类和聚类(一）
+R语言数学统计实验-概率与分布
+R语言数学统计实验-高级数据管理
+R语言数学统计实验-功效分析
+R语言数学统计实验-广义线性模型（二）
+R语言数学统计实验-广义线性模型（一）
+R语言数学统计实验-回归（四）
+R语言数学统计实验-回归（三）
+R语言数学统计实验-回归（二）
+R语言数学统计实验-回归（一）
+R语言数学统计实验-基本统计分析（三）
+R语言数学统计实验-基本统计分析（二）
+R语言数学统计实验-基本统计分析（一）
+R语言数学统计实验-基本图形
+R语言数学统计实验-建模实战
+R语言数学统计实验-聚类分析
+R语言数学统计实验-时序数据分析
+R语言数学统计实验-数据的筛选与汇总
+R语言数学统计实验-数据平滑
+R语言数学统计实验-数据重构
+R语言数学统计实验-中级绘图（二）
+R语言数学统计实验-中级绘图（一）
+R语言数学统计实验-重抽样与自助法（二）
+R语言数学统计实验-重抽样与自助法（一）
+R语言数学统计实验-主成分分析和因子分析（二）
+R语言数学统计实验-主成分分析和因子分析（一）
+python可视化基础实验-pyechart模块
+python可视化-全球经济指标动态分析
+Jupyter_Notebook使用教程
+实验一百四十 R语言实战：区域经纬度聚类
+实验一百四十一 R语言实战：随机森林分类空气质量
+实验一百二十九 R语言算法：随机森林分类
+实验一百二十七 R语言基础：因子操作
+实验一百二十五 R语言基础：文件操作
+实验一百二十 Python算法：Apriori关联规则
+实验一百二十八 R语言算法：决策树分类
+实验一百二十二 Python实战：区域经纬度聚类
+实验一百二十六 R语言基础：数据帧
+实验一百二十三 Python实战：回归预测空气指数
+实验一百二十四 R语言基础：流程控制
+实验一百二十一 Python实战：随机森林分类空气质量
+实验一百三十 R语言算法：贝叶斯分类
+实验一百三十二 R语言算法：SVM分类
+实验一百三十六 R语言算法：Apriori关联规则实验
+实验一百三十四 R语言算法：DBSCAN聚类
+实验一百零八 Python统计上海2016年每月历史天气
+实验一百零三 Python基础：流程控制
+实验一百零四 Python基础：列表和元组
+实验一百一十 Python统计北京和上海2016年月均气温对比
+实验一百一十八 Python算法：DBSCAN聚类
+实验一百一十二 Python算法：决策树分类
+实验一百一十六 Python算法：支持向量机分类
+实验一百一十四 Python算法：朴素贝叶斯分类
+实验一百三十八 R语言实战：回归预测空气指数
+实验一百三十九 R语言实战：按月进行时间序列预测温度
+实验一百三十七 R语言算法：时间序列分析
+实验一百三十三 R语言算法：K-means聚类
+实验一百三十五 R语言算法：回归分析
+实验一百三十一 R语言算法：KNN分类
+实验一百三十九 Python统计上海2016年每月空气质量
+实验一百零六 Python基础：文件操作
+实验一百零七 Python统计全国各省城市数量分布
+实验一百零五 Python基础：字典
+实验一百一十九 Python算法：回归分析
+实验一百一十七 Python算法：K-means聚类
+实验一百一十三 Python算法：随机森林分类
+实验一百一十五 Python算法：K最近邻分类
+实验一百一十一 Python统计北京和上海2016年空气质量对比
+神经网络的原理与构建（一）：手工打造神经网络
+神经网络的原理与构建（二）：神经网络调优
+神经网络的原理与构建（三）：用自己的手写数字—测试神经网络
+实验python：分析Titanic生还率（一）
+实验python：分析Titanic生还率（二）
+实验python：分析Titanic生还率（三）
+实验R语言 简单地铁路线推荐
+实验R语言 批量抓取位置经纬度坐标
+Numpy实现LSTM进行字符级的文本预测
+Numpy实现RNN进行字符级的文本预测
+使用NumPy完成卷积神经网络CNN的搭建
+标注工具的安装与基础操作
+标框标注基础：车牌日常环境标框标注
+区域标注：遥感影像区域标注
+分类实验基础：水果分类标注
+属性标注：人像特征属性标注
+标框标注：车牌夜晚环境标框标注
+标框标注：不完整车牌标框标注
+分类标注：人脸分类标注
+细胞分类标注
+标框标注：人脸标框标注
+标框标注：行人标框标注
+标框标注：车辆标框标注
+标框标注综合实验：行人车辆混合标框标注
+标框标注：细胞标框标注
+多边形标注：车辆多边形标注
+多边形标注：道路标志多边形标注
+区域标注：道路区域标注
+附录F Linux基础：grep
+附录G Linux基础：cut
+附录H Linux进阶：sed、awk、grep、cut综合运用
+Python运维实践：（主机端口管理）
+Linux常用命令：解压缩
+Pandas使用教程（一）
+Pandas使用教程（二）
+Python网络爬虫实验：多进程采集
+NumPy使用手册
+Python网络爬虫实验：多进程 + 多线程采集
+Python网络爬虫实验：多线程采集.
+Python获取财经数据和可视化分析
+python基础实验-迭代器、生成器，装饰器
+Python量化策略风险指标
+R语言：线性回归
+R语言基础：函数
+Python基础实验：正则表达式
+python基础实验-数据结构
+python基础实验-文件处理.ipynb
+python基础实验-异常.ipynb
+python基础实验-运算符和表达式
+python基础实验-字符串
+Python金融量化_上市公司知多少
+python爬虫实验-爬取京东iphone8的评论
+Python爬虫之协程异步
+pyhton-Scipy教程（上）
+python基础实验−条件控制
+python数据挖掘-Statsmodel模块(1)
+python数据挖掘-Statsmodel模块(2)
+python数据挖掘-scikit-learn模块实例
+python数据挖掘-scikit-learn模块（上）
+python数据挖掘-scikit-learn模块（下）
+python数据挖掘-C4.5算法
+网络小说下载（一）
+网络小说下载（二）
+R语言基础：数组
+Python金融数据处理（一）
+Python金融数据处理（二）
+实验Python：实验股票分析入门
+银行用户满意度分析（上）
+银行用户满意度分析（下）
+数据清洗：数据分列
+数据清洗：缺失值清洗
+数据清洗：格式内容清洗
+数据清洗：Excel数据清洗常用函数（一）
+数据清洗：Excel数据清洗常用函数（二）
+数据清洗：RDBMS数据清洗准备工作
+数据清洗：逻辑错误清洗
+R语言基础：缺失值分析
+R语言基础：异常值分析
+R语言基础：数据结构
+R语言基础：tidyverse生态链
+R语言基础：apply家族函数与管道操作教程
+R语言基础：tidyr和dplyr应用（一）——数据重塑
+R语言基础：tidyr和dplyr应用（二）——数据转换
+R语言基础：tidyr和dplyr应用（三）——实战案例
+Python爬虫三大库之BeautifulSoup
+Python爬虫三大库之Lxml
+Python爬虫三大库之Requests
+Python爬虫实验-爬虫原理
+数据清洗：快速定位和快速填充
+数据清洗：多表数据横向汇总
+数据清洗：多表数据纵向汇总
+铁路螺栓标框标注
+python爬虫：7日天气预报
+R语言爬虫：批量网页图片下载
+Python数学统计实验-回归
+Python数学统计实验-时间序列预测（一）
+Python数学统计实验-时间序列预测（二）
+爱荷华州房价预测（一）
+爱荷华州房价预测（二）
+R语言综合实验：基于R语言实现云词图的绘制
+Python爬虫：爬取豆瓣图书Top250
+冠状病毒可视化实战
+基于公共基因组数据分析对COVID2的起源探索
+可视化实验
+python编程入门
+可视化实战
+咖啡数据分析
+AWS动手实验Key Pairs
+AWS动手实验EC2
+AWS动手实验Elastic IPs
+AWS动手实验IAM
+AWS动手实验ELB
+AWS动手实验Memcached
+AWS动手实验MySQL
+AWS动手实验S3
+AWS动手实验Security Group
+AWS动手实验VPC
+绘制小说词云
+篮球命中率可视化分析
+纽约出租车运营情况可视化分析（一）
+纽约出租车运营情况可视化分析（二）
+爬取豆瓣电影信息 JN版
+Spark-Scala+Python综合实战：最优风险资产组合(一)
+Python数据清洗
+Python电影数据简单分析
+全美婴儿姓名分析
+Python实现二叉树
+芳华词云图+LDA分析
+Titanic数据案例分析
+R语言数据清洗
+test
+
+实验三 HDFS实验：读写HDFS文件
+3.1 实验目的
+1． 会在Linux环境下编写读写HDFS文件的代码；
+
+2． 会使用jar命令打包代码；
+
+3． 会在master服务器上运行HDFS读写程序；
+
+4． 会在Windows上安装Eclipse Hadoop插件；
+
+5． 会在Eclipse环境编写读写HDFS文件的代码；
+
+6． 会使用Eclipse打包代码；
+
+7． 会使用Xftp工具将实验电脑上的文件上传至master服务器。
+
+3.2 实验要求
+实验结束时，每位学生均已搭建HDFS开发环境；编写了HDFS写、读代码；在master机上执行了该写、读程序。通过实验了解HDFS读写文件的调用流程，理解HDFS读写文件的原理。
+
+3.3 实验原理
+3.3.1 Java Classpath
+Classpath设置的目的，在于告诉Java执行环境，在哪些目录下可以找到您所要执行的Java程序所需要的类或者包。
+
+Java执行环境本身就是一个平台，执行于这个平台上的程序是已编译完成的Java程序(后面会介绍到Java程序编译完成之后，会以.class文件存在)。如果将Java执行环境比喻为操作系统，如果设置Path变量是为了让操作系统找到指定的工具程序(以Windows来说就是找到.exe文件)，则设置Classpath的目的就是让Java执行环境找到指定的Java程序(也就是.class文件)。
+
+有几个方法可以设置Classpath，较简单的方法是在系统变量中新增Classpath环境变量。以Windows 7操作系统为例，右键点击计算机→属性→高级系统设置→环境变量，在弹出菜单的“系统变量”下单击“新建”按钮，在“变量名”文本框中输入Classpath，在“变量值”文本框中输入Java类文件的位置。例如可以输入“.; D:\Java\jdk1.7.0_79\lib\tools.jar; D:\Java\jdk1.7.0_79\lib\rt.jar”，每一路径中间必须以英文;作为分隔。如图3-1所示：
+
+
+图3-1 Win 7配置Classpath
+事实上JDK 7.0默认就会到当前工作目录(上面的.设置)，以及JDK的lib目录(这里假设是D:\Java\jdk1.7.0_796\lib)中寻找Java程序。所以如果Java程序是在这两个目录中，则不必设置Classpath变量也可以找得到，将来如果Java程序不是放置在这两个目录时，则可以按上述设置Classpath。
+
+如果所使用的JDK工具程序具有Classpath命令选项，则可以在执行工具程序时一并指定Classpath。例如：
+
+javac -classpath classpath1;classpath2...其中classpath1、classpath 2是实际要指定的路径。也可以在命令符模式下执行以下的命令，直接设置环境变量，包括Classpath变量(这个设置在下次重新打开命令符模式时就不再有效)：
+
+set CLASSPATH=%CLASSPATH%;classpath1;classpath2...总而言之，设置Classpath的目的，在于告诉Java执行环境，在哪些目录下可以找到您所要执行的Java程序(.class文件)。
+
+3.3.2 Eclipse Hadoop插件
+Eclipse 是一个跨平台的自由集成开发环境（IDE）。通过安装不同的插件，Eclipse可以支持不同的计算机语言，比如C++和Python等开发工具，亦可以通过hadoop插件来扩展开发Hadoop相关程序。
+
+实际工作中，Eclipse Hadoop插件需要根据hadoop集群的版本号进行下载并编译，过程较为繁琐。为了节约时间，将更多的精力用于实现读写HDFS文件，在大数据实验一体机的相关下载页面中已经提供了2.7.1版本的hadoop插件和相关的hadoop包下载，实验人员可以直接下载这些插件，快速在Eclipse中进行安装，开发自己的hadoop程序。
+
+3.4 实验步骤
+3.4.1 配置master服务器classpath
+使用ssh工具登录master服务器，执行命令vi /etc/profile，编辑该文件，将末尾的如下几行：
+
+JAVA_HOME=/usr/local/jdk1.7.0_79/
+export JRE_HOME=/usr/local/jdk1.7.0_79//jre
+export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
+export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib
+export HADOOP_HOME=/usr/cstor/hadoop
+export PATH=$PATH:$HADOOP_HOME/bin
+export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib"
+用下列行进行替换：
+
+JAVA_HOME=/usr/local/jdk1.7.0_79/
+export HADOOP_HOME=/usr/cstor/hadoop
+export JRE_HOME=/usr/local/jdk1.7.0_79//jre
+export PATH=$PATH:$JAVA_HOME/bin:$JRE_HOME/bin
+export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$HADOOP_HOME/share/hadoop/common/*:$HADOOP_HOME/share/hadoop/common/lib/*
+export PATH=$PATH:$HADOOP_HOME/bin
+export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib:$HADOOP_HOME/lib/native"
+执行命令source /etc/profile，使刚才的环境变量修改生效：
+
+[root@master ~]# source /etc/profile
+3.4.2 在master服务器编写HDFS写程序
+在master服务器上执行命令vi WriteFile.java，编写HDFS写文件程序：
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FSDataOutputStream;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+public class WriteFile {
+public static void main(String[] args)throws Exception{
+Configuration conf=new Configuration();
+FileSystem hdfs = FileSystem.get(conf);
+Path dfs = new Path("/weather.txt");
+FSDataOutputStream outputStream = hdfs.create(dfs);
+outputStream.writeUTF("nj 20161009 23\n");
+outputStream.close();
+}
+}
+3.4.3 编译并打包HDFS写程序
+使用javac编译刚刚编写的代码，并使用jar命令打包为hdpAction.jar：
+
+[root@master ~]# javac WriteFile.java
+[root@master ~]# jar -cvf hdpAction.jar WriteFile.class
+added manifest
+adding: WriteFile.class(in = 833) (out= 489)(deflated 41%)
+3.4.4 执行HDFS写程序
+在master服务器上使用hadoop jar命令执行hdpAction.jar：
+
+[root@master ~]# hadoop jar  ~/hdpAction.jar  WriteFile
+查看是否已生成weather.txt文件，若已生成，则查看文件内容是否正确：
+[root@master ~]# hadoop fs -ls /
+Found 2 items
+-rw-r--r--   3 root supergroup         29 2016-12-05 12:28 /machines
+-rw-r--r--   3 root supergroup         17 2016-12-05 14:54 /weather.txt
+[root@master ~]# hadoop fs -cat /weather.txt
+nj 20161009 23
+3.4.5 在master服务器编写HDFS读程序
+在master服务器上执行命令vi ReadFile.java，编写HDFS读文件程序：
+
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FSDataInputStream;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+
+public class ReadFile {
+  public static void main(String[] args) throws IOException {
+    Configuration conf = new Configuration();
+    Path inFile = new Path("/weather.txt");
+    FileSystem hdfs = FileSystem.get(conf);
+    FSDataInputStream inputStream = hdfs.open(inFile);
+    System.out.println("myfile: " + inputStream.readUTF());
+    inputStream.close();
+  }
+}
+3.4.6 编译并打包HDFS读程序
+使用javac编译刚刚编写的代码，并使用jar命令打包为hdpAction.jar
+
+[root@master ~]# javac ReadFile.java
+[root@master ~]# jar -cvf hdpAction.jar ReadFile.class
+added manifest
+adding: ReadFile.class(in = 1093) (out= 597)(deflated 45%)
+3.4.7 执行HDFS读程序
+在master服务器上使用hadoop jar命令执行hdpAction.jar，查看程序运行结果：
+
+[root@master ~]# hadoop jar  ~/hdpAction.jar  ReadFile
+myfile: nj 20161009 23
+
+[root@master ~]#
+3.4.8 安装与配置Eclipse Hadoop插件
+关闭Eclipse软件，将hadoop-eclipse-plugin-2.7.1.jar文件拷贝至eclipse安装目录的plugins文件夹下。如图3-2和图3-3所示：
+
+
+图3-2 Eclipse软件的插件文件夹
+
+图3-3 将hadoop-eclipse-plugin-2.7.1.jar文件拷贝至插件文件夹中
+接下来，我们需要准备本地的Hadoop环境，用于加载hadoop目录中的jar包，只需解压hadoop-2.7.1.tar.gz文件，解压过程中可能会遇到如下错误，点击关闭忽略即可。如图3-4所示：
+
+
+图3-4 解压hadoop-2.7.1.tar.gz可能遇到的错误
+现在，我们需要验证是否可以用Eclipse新建Hadoop（HDFS）项目。打开Eclipse软件，依次点击File->New->Other，查看是否已经有Map/Reduce Project的选项。第一次新建Map/Reduce项目时，需要指定hadoop解压后的位置。如图3-5、图3-6和图3-7所示：
+
+
+图3-5 Eclipse新建Map/Reduce项目
+
+图3-6 设置Hadoop安装目录
+
+图3-7 指定Hadoop安装目录
+3.4.9 使用Eclipse开发并打包HDFS写文件程序
+打开Eclipse，依次点击File->New->Map/Reduce Project或File->New->Other->Map/Reduce Project，新建项目名为WriteHDFS的Map/Reduce项目。
+
+新建WriteFile类并编写如下代码：
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FSDataOutputStream;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+public class WriteFile {
+public static void main(String[] args)throws Exception{
+Configuration conf=new Configuration();
+FileSystem hdfs = FileSystem.get(conf);
+Path dfs = new Path("/weather.txt");
+FSDataOutputStream outputStream = hdfs.create(dfs);
+outputStream.writeUTF("nj 20161009 23\n");
+outputStream.close();
+}
+}
+在Eclipse左侧的导航栏选中该项目，点击Export->Java->JAR File，填写导出文件的路径和文件名（本例中设置为hdpAction.jar），确定导出即可。如图3-8和图3-9所示：
+
+
+图3-8 选择导出JAR包文件
+
+图3-9 指定导出的JAR包文件名
+3.4.10 上传HDFS写文件程序jar包并执行
+使用WinSCP、XManager或其它SSH工具的sftp工具上传刚刚生成的hdpAction.jar包至master服务器：
+
+sftp> lcd C:/Users/Administrator/Desktop/
+sftp> put hdpAction.jar
+Uploading hdpAction.jar to /root/hdpAction.jar
+  100% 2KB      2KB/s 00:00:00
+C:/Users/Administrator/Desktop/hdpAction.jar: 2807 bytes transferred in 0 seconds (2807 bytes/s)
+在master服务器上使用hadoop jar命令执行hdpAction.jar：
+
+[root@master ~]# hadoop jar  ~/hdpAction.jar  WriteFile
+查看是否已生成weather.txt文件，若已生成，则查看文件内容是否正确：
+
+[root@master ~]# hadoop fs -ls /
+Found 2 items
+-rw-r--r--   3 root supergroup         29 2016-12-05 12:28 /machines
+-rw-r--r--   3 root supergroup         17 2016-12-05 14:54 /weather.txt
+[root@master ~]# Hadoop fs -cat /weather.txt
+nj 20161009 23
+3.4.11 使用Eclipse开发并打包HDFS读文件程序
+打开Eclipse，依次点击File->New->Map/Reduce Project或File->New->Other->Map/Reduce Project，新建项目名为ReadHDFS的Map/Reduce项目。
+
+新建ReadFile类并编写如下代码：
+
+import java.io.IOException;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.fs.FSDataInputStream;
+import org.apache.hadoop.fs.FileSystem;
+import org.apache.hadoop.fs.Path;
+
+public class ReadFile {
+  public static void main(String[] args) throws IOException {
+    Configuration conf = new Configuration();
+    Path inFile = new Path("/weather.txt");
+    FileSystem hdfs = FileSystem.get(conf);
+    FSDataInputStream inputStream = hdfs.open(inFile);
+    System.out.println("myfile: " + inputStream.readUTF());
+    inputStream.close();
+  }
+}
+在Eclipse左侧的导航栏选中该项目，点击Export->Java->JAR File，导出为hdpAction.jar。
+
+3.4.12 上传HDFS读文件程序jar包并执行
+使用WinSCP、XManager或其它SSH工具的sftp工具上传刚刚生成的hdpAction.jar包至master服务器，并在master服务器上使用hadoop jar命令执行hdpAction.jar，查看程序运行结果：
+
+[root@master ~]# hadoop jar  ~/hdpAction.jar  ReadFile
+myfile: nj 20161009 23
+
+[root@master ~]#
