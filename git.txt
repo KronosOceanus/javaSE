@@ -1,0 +1,12 @@
+git init
+git config --global user.name 'KronosOceanus'
+git config --global user.email '704690152@qq.com'
+git config --global core.autocrlf false
+
+git remote add origin https://github.com/KronosOceanus/ClusterConfig.git
+git remote add upstream https://github.com/KronosOceanus/ClusterConfig.git
+git pull --rebase origin main
+
+git add .
+git commit -m "update"
+git push -u origin main

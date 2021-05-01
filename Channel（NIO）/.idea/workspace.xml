@@ -2,51 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d09a2a64-f78a-4bcd-ac94-14b2345cf133" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../发送GET和POST请求/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../爬虫/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Channel（NIO）.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Channel（NIO）.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileChannelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileChannelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC编程实例/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC编程实例/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC编程实例/out/production/JDBC编程实例/META-INF/JDBC编程实例.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../发送GET和POST请求/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../发送GET和POST请求/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../发送GET和POST请求/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../发送GET和POST请求/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../发送GET和POST请求/发送GET和POST请求.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../发送GET和POST请求/发送GET和POST请求.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buffer的使用（NIO）/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Buffer的使用（NIO）/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buffer的使用（NIO）/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buffer的使用（NIO）/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buffer的使用（NIO）/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Buffer的使用（NIO）/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileChannelTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -60,12 +30,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="105" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectId" id="1qjxxjJ64EuwwxFEMtaYFi9Krn3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -92,7 +66,12 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549272397675" />
@@ -102,18 +81,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project\Channel（NIO）" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -132,6 +99,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -193,6 +161,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/a.txt">
